@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 511.99999 512.00001"
+   version="1.1"
+   id="svg657"
+   sodipodi:docname="firefox-developer-edition.svg"
+   width="512"
+   height="512"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata661">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     id="namedview659"
+     showgrid="false"
+     inkscape:zoom="0.41645912"
+     inkscape:cx="-46.040711"
+     inkscape:cy="509.32675"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg657" />
+  <defs
+     id="defs203">
+    <linearGradient
+       id="linear-gradient"
+       x1="-14371.64"
+       y1="9293.5303"
+       x2="-14108.4"
+       y2="9293.5303"
+       gradientTransform="matrix(0.76,0.03,0.05,-1.12,11228.23,11186.79)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#0083ff"
+         id="stop2" />
+      <stop
+         offset="0.18"
+         stop-color="#0096f6"
+         id="stop4" />
+      <stop
+         offset="0.51"
+         stop-color="#00b3e6"
+         id="stop6" />
+      <stop
+         offset="0.79"
+         stop-color="#00c6dd"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#00ccda"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="-541.29999"
+       y1="256.54001"
+       x2="-732.72998"
+       y2="882.77002"
+       gradientTransform="matrix(1,0,0,-1,1081.94,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#000f40"
+         stop-opacity="0.6"
+         id="stop13" />
+      <stop
+         offset="0.61"
+         stop-color="#000f40"
+         stop-opacity="0.18"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#000f40"
+         stop-opacity="0"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="540.64001"
+       y1="256.54001"
+       x2="349.20001"
+       y2="882.77002"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#000f43"
+         stop-opacity="0.4"
+         id="stop20" />
+      <stop
+         offset="0.48"
+         stop-color="#001962"
+         stop-opacity="0.17"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#002079"
+         stop-opacity="0"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-4"
+       x1="-8570.46"
+       y1="7439.0801"
+       x2="-8685.71"
+       y2="7447.98"
+       gradientTransform="matrix(1.22,0.12,0.12,-1.22,10478.03,10900.02)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#002275"
+         id="stop27" />
+      <stop
+         offset="1"
+         stop-color="#005fe7"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-5"
+       x1="-8653.3203"
+       y1="7586.8599"
+       x2="-8545.3701"
+       y2="7698.98"
+       gradientTransform="matrix(1.22,0.12,0.12,-1.22,10478.03,10900.02)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.05"
+         stop-color="#005fe7"
+         id="stop32" />
+      <stop
+         offset="0.19"
+         stop-color="#005ce1"
+         id="stop34" />
+      <stop
+         offset="0.38"
+         stop-color="#0052cf"
+         id="stop36" />
+      <stop
+         offset="0.6"
+         stop-color="#0043b2"
+         id="stop38" />
+      <stop
+         offset="0.84"
+         stop-color="#002d8a"
+         id="stop40" />
+      <stop
+         offset="0.95"
+         stop-color="#002275"
+         id="stop42" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-6"
+       x1="-8856.7803"
+       y1="7335.52"
+       x2="-8625.9004"
+       y2="7334.98"
+       gradientTransform="matrix(1.22,0.12,0.12,-1.22,10478.03,10900.02)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#002079"
+         id="stop45" />
+      <stop
+         offset="0.99"
+         stop-color="#000f40"
+         id="stop47" />
+    </linearGradient>
+    <radialGradient
+       id="radial-gradient"
+       cx="584.09998"
+       cy="600.57001"
+       fx="717.51404"
+       fy="478.32767"
+       r="751.57001"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.16"
+         stop-color="#58c1ff"
+         id="stop50" />
+      <stop
+         offset="0.24"
+         stop-color="#4cb8ff"
+         id="stop52" />
+      <stop
+         offset="0.39"
+         stop-color="#2ea0ff"
+         id="stop54" />
+      <stop
+         offset="0.54"
+         stop-color="#0a84ff"
+         id="stop56" />
+      <stop
+         offset="0.76"
+         stop-color="#0060df"
+         id="stop58" />
+      <stop
+         offset="0.8"
+         stop-color="#0067de"
+         id="stop60" />
+      <stop
+         offset="0.85"
+         stop-color="#007bdd"
+         id="stop62" />
+      <stop
+         offset="0.91"
+         stop-color="#009cda"
+         id="stop64" />
+      <stop
+         offset="0.98"
+         stop-color="#00c8d7"
+         id="stop66" />
+    </radialGradient>
+    <linearGradient
+       id="linear-gradient-7"
+       x1="-7658.5801"
+       y1="9078.0898"
+       x2="-7729.6099"
+       y2="8279.7002"
+       gradientTransform="matrix(1.23,0,0,-1.22,10201.91,11050.28)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00feff"
+         id="stop69" />
+      <stop
+         offset="0.3"
+         stop-color="#04c9ff"
+         id="stop71" />
+      <stop
+         offset="0.61"
+         stop-color="#0897ff"
+         id="stop73" />
+      <stop
+         offset="0.77"
+         stop-color="#0a84ff"
+         id="stop75" />
+      <stop
+         offset="0.79"
+         stop-color="#0a84ff"
+         stop-opacity="0.93"
+         id="stop77" />
+      <stop
+         offset="0.84"
+         stop-color="#0a84ff"
+         stop-opacity="0.76"
+         id="stop79" />
+      <stop
+         offset="0.9"
+         stop-color="#0a84ff"
+         stop-opacity="0.49"
+         id="stop81" />
+      <stop
+         offset="0.98"
+         stop-color="#0a84ff"
+         stop-opacity="0.11"
+         id="stop83" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         stop-opacity="0"
+         id="stop85" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-8"
+       x1="-9129.9902"
+       y1="7770.7402"
+       x2="-8993.5195"
+       y2="7770.7402"
+       gradientTransform="matrix(1.22,0.12,0.12,-1.22,10478.03,10900.02)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#003eaa"
+         id="stop88" />
+      <stop
+         offset="0.3"
+         stop-color="#0054c5"
+         stop-opacity="0.68"
+         id="stop90" />
+      <stop
+         offset="0.78"
+         stop-color="#0076ef"
+         stop-opacity="0.19"
+         id="stop92" />
+      <stop
+         offset="1"
+         stop-color="#0083ff"
+         stop-opacity="0"
+         id="stop94" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-9"
+       x1="553.41998"
+       y1="650.09003"
+       x2="358.39999"
+       y2="653.09003"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00feff"
+         stop-opacity="0.25"
+         id="stop97" />
+      <stop
+         offset="0.54"
+         stop-color="#2ddfff"
+         stop-opacity="0.12"
+         id="stop99" />
+      <stop
+         offset="1"
+         stop-color="#58c1ff"
+         stop-opacity="0"
+         id="stop101" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-10"
+       x1="208.63"
+       y1="2142.48"
+       x2="90.809998"
+       y2="2394.3201"
+       gradientTransform="matrix(0.99,0.1,0.1,-0.99,-255.6,2416.49)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.19"
+         stop-color="#002275"
+         stop-opacity="0.7"
+         id="stop104" />
+      <stop
+         offset="0.63"
+         stop-color="#009dc2"
+         stop-opacity="0.36"
+         id="stop106" />
+      <stop
+         offset="0.94"
+         stop-color="#00feff"
+         stop-opacity="0.1"
+         id="stop108" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-11"
+       x1="-43.75"
+       y1="388.32001"
+       x2="50.360001"
+       y2="281.42999"
+       gradientTransform="matrix(0.99,0.1,0.1,-0.99,223.54,856.07)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#002275"
+         stop-opacity="0.8"
+         id="stop111" />
+      <stop
+         offset="0.07"
+         stop-color="#002479"
+         stop-opacity="0.74"
+         id="stop113" />
+      <stop
+         offset="0.95"
+         stop-color="#003eaa"
+         stop-opacity="0"
+         id="stop115" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-12"
+       x1="136.86"
+       y1="206.19"
+       x2="136.89999"
+       y2="259.62"
+       gradientTransform="matrix(0.99,0.1,0.1,-0.99,223.54,856.07)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#002275"
+         stop-opacity="0.6"
+         id="stop118" />
+      <stop
+         offset="0.24"
+         stop-color="#002275"
+         stop-opacity="0.34"
+         id="stop120" />
+      <stop
+         offset="0.49"
+         stop-color="#002275"
+         stop-opacity="0.15"
+         id="stop122" />
+      <stop
+         offset="0.72"
+         stop-color="#002275"
+         stop-opacity="0.04"
+         id="stop124" />
+      <stop
+         offset="0.93"
+         stop-color="#002275"
+         stop-opacity="0"
+         id="stop126" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-13"
+       x1="569.33002"
+       y1="1064.11"
+       x2="877.67999"
+       y2="374.60001"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00feff"
+         id="stop129" />
+      <stop
+         offset="0.28"
+         stop-color="#03dfff"
+         id="stop131" />
+      <stop
+         offset="0.9"
+         stop-color="#0992ff"
+         id="stop133" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         id="stop135" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-14"
+       x1="680.88"
+       y1="556.53998"
+       x2="536.09998"
+       y2="167.78999"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#0060df"
+         id="stop138" />
+      <stop
+         offset="0.09"
+         stop-color="#0067e5"
+         stop-opacity="0.81"
+         id="stop140" />
+      <stop
+         offset="0.21"
+         stop-color="#006eec"
+         stop-opacity="0.59"
+         id="stop142" />
+      <stop
+         offset="0.33"
+         stop-color="#0075f2"
+         stop-opacity="0.41"
+         id="stop144" />
+      <stop
+         offset="0.46"
+         stop-color="#007af7"
+         stop-opacity="0.26"
+         id="stop146" />
+      <stop
+         offset="0.58"
+         stop-color="#007efa"
+         stop-opacity="0.15"
+         id="stop148" />
+      <stop
+         offset="0.71"
+         stop-color="#0081fd"
+         stop-opacity="0.06"
+         id="stop150" />
+      <stop
+         offset="0.85"
+         stop-color="#0082fe"
+         stop-opacity="0.02"
+         id="stop152" />
+      <stop
+         offset="1"
+         stop-color="#0083ff"
+         stop-opacity="0"
+         id="stop154" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-15"
+       x1="640"
+       y1="1020.28"
+       x2="747.98999"
+       y2="109.82"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#75feff"
+         id="stop157" />
+      <stop
+         offset="0.28"
+         stop-color="#5adfff"
+         id="stop159" />
+      <stop
+         offset="0.9"
+         stop-color="#1692ff"
+         id="stop161" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         id="stop163" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-16"
+       x1="735.59003"
+       y1="578.40997"
+       x2="653.09998"
+       y2="230.42999"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#9ee7ff"
+         id="stop166" />
+      <stop
+         offset="0.14"
+         stop-color="#8cdbff"
+         stop-opacity="0.88"
+         id="stop168" />
+      <stop
+         offset="0.46"
+         stop-color="#5ebdff"
+         stop-opacity="0.57"
+         id="stop170" />
+      <stop
+         offset="0.92"
+         stop-color="#168cff"
+         stop-opacity="0.08"
+         id="stop172" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         stop-opacity="0"
+         id="stop174" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-17"
+       x1="649"
+       y1="1002.59"
+       x2="724.57001"
+       y2="429.48001"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00feff"
+         id="stop177" />
+      <stop
+         offset="0.14"
+         stop-color="#0bf7ff"
+         stop-opacity="0.88"
+         id="stop179" />
+      <stop
+         offset="0.46"
+         stop-color="#26e4ff"
+         stop-opacity="0.57"
+         id="stop181" />
+      <stop
+         offset="0.92"
+         stop-color="#51c6ff"
+         stop-opacity="0.08"
+         id="stop183" />
+      <stop
+         offset="1"
+         stop-color="#58c1ff"
+         stop-opacity="0"
+         id="stop185" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-18"
+       x1="662.79999"
+       y1="968.07001"
+       x2="1060.9399"
+       y2="345.60001"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00feff"
+         id="stop188" />
+      <stop
+         offset="0.14"
+         stop-color="#01efff"
+         stop-opacity="0.88"
+         id="stop190" />
+      <stop
+         offset="0.46"
+         stop-color="#04caff"
+         stop-opacity="0.57"
+         id="stop192" />
+      <stop
+         offset="0.92"
+         stop-color="#098eff"
+         stop-opacity="0.08"
+         id="stop194" />
+      <stop
+         offset="1"
+         stop-color="#0a84ff"
+         stop-opacity="0"
+         id="stop196" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-19"
+       x1="754.44"
+       y1="521.58002"
+       x2="313.85999"
+       y2="178"
+       xlink:href="#linear-gradient-16" />
+    <linearGradient
+       id="linear-gradient-20"
+       x1="358.66"
+       y1="754.08002"
+       x2="43.380001"
+       y2="513.58002"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="linear-gradient-21"
+       x1="145.64999"
+       y1="859.21002"
+       x2="130.45"
+       y2="726.90997"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       id="linear-gradient-22"
+       x1="292.53"
+       y1="562.84003"
+       x2="195.52"
+       y2="368.82001"
+       xlink:href="#linear-gradient-18" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient-16"
+       id="linearGradient663"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       x1="735.59003"
+       y1="578.40997"
+       x2="653.09998"
+       y2="230.42999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient-18"
+       id="linearGradient665"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,986.01)"
+       x1="662.79999"
+       y1="968.07001"
+       x2="1060.9399"
+       y2="345.60001" />
+  </defs>
+  <title
+     id="title205">firefox-logo-developer-edition</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="matrix(0.53587383,0,0,0.51918317,0,0.00226941)">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <g
+         id="Layer_2-2"
+         data-name="Layer 2">
+        <g
+           id="Fox_Lines_-_Outlined"
+           data-name="Fox Lines - Outlined">
+          <polygon
+             points="701.38,138.15 640.13,114.04 566.64,87.83 445.64,80.1 369.34,93.91 307.08,113.11 196.61,177.94 127.56,255.17 63.9,358.86 38.86,447.1 34.18,580.97 58.05,672.25 110.71,776.17 147.85,826.37 199.21,873.58 263.35,917.09 342.45,951.59 474.81,967.17 543.93,969.1 646.22,940.21 737.65,889.89 796.48,839.57 842.09,785 906.58,658.41 920.82,571.82 916.77,436.39 896.46,368.8 838.37,258.88 771.93,188.65 "
+             style="fill:#061a58"
+             id="polygon207" />
+          <polygon
+             points="393.67,194.85 482.06,230.78 447.85,140.94 "
+             style="fill:#133691"
+             id="polygon209" />
+          <polygon
+             points="447.85,140.94 547.82,149.01 482.06,230.78 "
+             style="fill:#1943ae"
+             id="polygon211" />
+          <polygon
+             points="653.2,225.58 547.82,149.01 482.06,230.78 "
+             style="fill:#2053cf"
+             id="polygon213" />
+          <polygon
+             points="547.82,149.01 640.49,148.44 653.2,225.58 "
+             style="fill:#2660eb"
+             id="polygon215" />
+          <polygon
+             points="750.65,219.2 640.49,148.44 653.2,225.58 "
+             style="fill:#306dff"
+             id="polygon217" />
+          <polygon
+             points="640.49,148.44 695.25,142.59 750.65,219.2 "
+             style="fill:#235adb"
+             id="polygon219" />
+          <polygon
+             points="695.25,142.59 771.93,188.65 750.65,219.2 "
+             style="fill:#2660eb"
+             id="polygon221" />
+          <polygon
+             points="750.65,219.2 771.93,188.65 824.01,266.11 "
+             style="fill:#2053cf"
+             id="polygon223" />
+          <polygon
+             points="738.38,271.68 805.48,298.57 750.65,219.2 "
+             style="fill:#1c4abd"
+             id="polygon225" />
+          <polygon
+             points="824.01,266.11 805.48,298.57 750.65,219.2 "
+             style="fill:#1a46b4"
+             id="polygon227" />
+          <polygon
+             points="750.65,219.2 738.38,271.68 653.2,225.58 "
+             style="fill:#2660eb"
+             id="polygon229" />
+          <polygon
+             points="738.38,271.68 675.3,344.13 653.2,225.58 "
+             style="fill:#235adb"
+             id="polygon231" />
+          <polygon
+             points="576.21,295.46 675.3,344.13 653.2,225.58 "
+             style="fill:#1f51ca"
+             id="polygon233" />
+          <polygon
+             points="653.2,225.58 576.21,295.46 482.06,230.78 "
+             style="fill:#1f50c9"
+             id="polygon235" />
+          <polygon
+             points="738.38,271.68 784.98,362.3 675.3,344.13 "
+             style="fill:#2053cf"
+             id="polygon237" />
+          <polygon
+             points="784.98,362.3 805.48,298.57 738.38,271.68 "
+             style="fill:#1b48b9"
+             id="polygon239" />
+          <polygon
+             points="805.48,298.57 854.3,415.01 784.98,362.3 "
+             style="fill:#173fa5"
+             id="polygon241" />
+          <polygon
+             points="879.88,353.21 854.3,415.01 805.48,298.57 "
+             style="fill:#12348d"
+             id="polygon243" />
+          <polygon
+             points="879.88,353.21 824.01,266.11 805.48,298.57 "
+             style="fill:#143895"
+             id="polygon245" />
+          <polygon
+             points="838.37,258.88 879.88,353.21 824.01,266.11 "
+             style="fill:#0f2f82"
+             id="polygon247" />
+          <polygon
+             points="896.46,368.8 838.37,258.88 879.88,353.21 "
+             style="fill:#05154c"
+             id="polygon249" />
+          <polygon
+             points="838.37,258.88 771.93,188.65 824.01,266.11 "
+             style="fill:#163c9e"
+             id="polygon251" />
+          <polygon
+             points="913.04,489.2 896.46,368.8 916.77,436.39 912.77,489.2 "
+             style="fill:#051753"
+             id="polygon253" />
+          <polygon
+             points="913.04,489.2 896.46,368.8 879.88,353.21 "
+             style="fill:#061a57"
+             id="polygon255" />
+          <polygon
+             points="913.04,489.2 879.88,353.21 854.3,415.01 "
+             style="fill:#05154c"
+             id="polygon257" />
+          <polygon
+             points="912.77,489.2 916.77,436.39 920.82,571.82 913.04,489.2 "
+             style="fill:#081f63"
+             id="polygon259" />
+          <polygon
+             points="920.82,571.82 913.04,489.2 903.2,596.22 "
+             style="fill:#12348d"
+             id="polygon261" />
+          <polygon
+             points="892.49,665.22 920.82,571.82 906.58,658.41 "
+             style="fill:#123392"
+             id="polygon263" />
+          <polygon
+             points="920.82,571.82 903.2,596.22 892.49,665.22 "
+             style="fill:#0c2674"
+             id="polygon265" />
+          <polygon
+             points="913.04,489.2 882.86,524.9 903.2,596.22 "
+             style="fill:#081f63"
+             id="polygon267" />
+          <polygon
+             points="903.2,596.22 844.99,694.32 892.49,665.22 "
+             style="fill:#0f2f82"
+             id="polygon269" />
+          <polygon
+             points="913.04,489.2 882.86,524.9 854.3,415.01 "
+             style="fill:#061a57"
+             id="polygon271" />
+          <polygon
+             points="882.86,524.9 852.17,612.75 903.2,596.22 "
+             style="fill:#081e5f"
+             id="polygon273" />
+          <polygon
+             points="903.2,596.22 852.17,612.75 844.99,694.32 "
+             style="fill:#092167"
+             id="polygon275" />
+          <polygon
+             points="906.58,658.41 892.49,665.22 842.09,785 "
+             style="fill:#163aa2"
+             id="polygon277" />
+          <polygon
+             points="892.49,665.22 845.34,752.53 842.09,785 "
+             style="fill:#163aa2"
+             id="polygon279" />
+          <polygon
+             points="892.49,665.22 844.99,694.32 845.34,752.53 "
+             style="fill:#0e2b7e"
+             id="polygon281" />
+          <polygon
+             points="845.34,752.53 842.09,785 796.48,839.57 "
+             style="fill:#123392"
+             id="polygon283" />
+          <polyline
+             points="734.31 868.24 796.48 839.57 737.65 889.89 734.31 868.24"
+             style="fill:#1a45b2"
+             id="polyline285" />
+          <polygon
+             points="845.34,752.53 734.31,868.24 796.48,839.57 "
+             style="fill:#123392"
+             id="polygon287" />
+          <polygon
+             points="737.65,889.89 685.8,905.97 734.31,868.24 "
+             style="fill:#133493"
+             id="polygon289" />
+          <polygon
+             points="685.8,905.97 737.65,889.89 646.22,940.21 "
+             style="fill:#1a45b2"
+             id="polygon291" />
+          <polygon
+             points="685.8,905.97 557.16,954.07 646.22,940.21 "
+             style="fill:#1a45b2"
+             id="polygon293" />
+          <polygon
+             points="646.22,940.21 557.16,954.07 543.93,969.1 "
+             style="fill:#1a45b2"
+             id="polygon295" />
+          <polygon
+             points="543.93,969.1 557.16,954.07 474.81,967.17 "
+             style="fill:#1a45b2"
+             id="polygon297" />
+          <polygon
+             points="334.9,939.52 474.81,967.17 342.45,951.59 "
+             style="fill:#1f51ca"
+             id="polygon299" />
+          <polygon
+             points="334.9,939.52 263.35,917.09 342.45,951.59 "
+             style="fill:#173fad"
+             id="polygon301" />
+          <polygon
+             points="147.85,826.37 263.35,917.09 199.21,873.58 "
+             style="fill:#173fad"
+             id="polygon303" />
+          <polygon
+             points="110.71,776.17 135.38,784.31 147.85,826.37 "
+             style="fill:#1b47b5"
+             id="polygon305" />
+          <polygon
+             points="263.35,917.09 225.57,868.79 147.85,826.37 "
+             style="fill:#163aa3"
+             id="polygon307" />
+          <polygon
+             points="225.57,868.79 135.38,784.31 147.85,826.37 "
+             style="fill:#173fad"
+             id="polygon309" />
+          <polygon
+             points="334.9,939.52 263.35,917.09 225.57,868.79 "
+             style="fill:#133595"
+             id="polygon311" />
+          <polygon
+             points="334.9,939.52 336.71,897.93 225.57,868.79 "
+             style="fill:#163ba4"
+             id="polygon313" />
+          <polygon
+             points="334.9,939.52 336.71,897.93 394.33,924.94 "
+             style="fill:#163aa2"
+             id="polygon315" />
+          <polygon
+             points="110.71,776.17 94.21,702.09 135.38,784.31 "
+             style="fill:#2053cf"
+             id="polygon317" />
+          <polygon
+             points="58.05,672.25 94.21,702.09 110.71,776.17 "
+             style="fill:#306dff"
+             id="polygon319" />
+          <polyline
+             points="40.73 560.38 94.21 702.09 58.05 672.25"
+             style="fill:#1f51ca"
+             id="polyline321" />
+          <polygon
+             points="34.18,580.97 40.73,560.38 58.05,672.25 "
+             style="fill:#2257d7"
+             id="polygon323" />
+          <polygon
+             points="34.18,580.97 38.86,447.1 40.73,560.38 "
+             style="fill:#11318d"
+             id="polygon325" />
+          <polygon
+             points="80.28,352.77 38.86,447.1 63.9,358.86 "
+             style="fill:#0c2674"
+             id="polygon327" />
+          <polygon
+             points="70.22,441.25 80.28,352.77 38.86,447.1 "
+             style="fill:#102f88"
+             id="polygon329" />
+          <polygon
+             points="38.86,447.1 70.22,441.25 40.73,560.38 "
+             style="fill:#133595"
+             id="polygon331" />
+          <polygon
+             points="68.11,537.91 40.73,560.38 70.22,441.25 "
+             style="fill:#12328e"
+             id="polygon333" />
+          <polygon
+             points="80.28,352.77 63.9,358.86 127.56,255.17 "
+             style="fill:#0b2572"
+             id="polygon335" />
+          <polygon
+             points="187.95,197.36 196.61,177.94 127.56,255.17 "
+             style="fill:#020b2e"
+             id="polygon337" />
+          <polygon
+             points="268.46,142.13 187.95,197.36 196.61,177.94 "
+             style="fill:#092064"
+             id="polygon339" />
+          <polyline
+             points="196.61 177.94 307.08 113.11 268.46 142.13 196.61 177.94"
+             style="fill:#030f41"
+             id="polyline341" />
+          <polygon
+             points="369.34,93.91 307.08,113.11 268.46,142.13 "
+             style="fill:#081e5f"
+             id="polygon343" />
+          <polygon
+             points="329.9,136.51 268.46,142.13 369.34,93.91 "
+             style="fill:#081f61"
+             id="polygon345" />
+          <polygon
+             points="423.87,98.83 369.34,93.91 329.9,136.51 "
+             style="fill:#0d2a78"
+             id="polygon347" />
+          <polygon
+             points="369.34,93.91 423.87,98.83 445.64,80.1 "
+             style="fill:#11338b"
+             id="polygon349" />
+          <polyline
+             points="517.8 97.89 423.87 98.83 445.64 80.1"
+             style="fill:#153a99"
+             id="polyline351" />
+          <polygon
+             points="566.64,87.83 517.8,97.89 445.64,80.1 "
+             style="fill:#0d2a78"
+             id="polygon353" />
+          <polygon
+             points="566.64,87.83 640.13,114.04 517.8,97.89 "
+             style="fill:#2053ce"
+             id="polygon355" />
+          <polygon
+             points="640.13,114.04 701.38,138.15 695.25,142.59 "
+             style="fill:#1e4dc3"
+             id="polygon357" />
+          <polygon
+             points="701.38,138.15 771.93,188.65 695.25,142.59 "
+             style="fill:#1e4fc7"
+             id="polygon359" />
+          <polygon
+             points="474.81,967.17 394.33,924.94 334.9,939.52 "
+             style="fill:#1a45b2"
+             id="polygon361" />
+          <polygon
+             points="394.33,924.94 473.09,910.23 474.81,967.17 "
+             style="fill:#163aa2"
+             id="polygon363" />
+          <polygon
+             points="474.81,967.17 473.09,910.23 557.16,954.07 "
+             style="fill:#1a45b2"
+             id="polygon365" />
+          <polygon
+             points="473.09,910.23 588.95,879.02 557.16,954.07 "
+             style="fill:#1741aa"
+             id="polygon367" />
+          <polyline
+             points="685.8 905.97 557.16 954.07 588.95 879.02"
+             style="fill:#1a45b2"
+             id="polyline369" />
+          <polygon
+             points="691.68,830.87 588.95,879.02 685.8,905.97 "
+             style="fill:#133493"
+             id="polygon371" />
+          <polygon
+             points="691.68,830.87 734.31,868.24 685.8,905.97 "
+             style="fill:#163aa2"
+             id="polygon373" />
+          <polygon
+             points="691.68,830.87 794.68,762.24 734.31,868.24 "
+             style="fill:#133493"
+             id="polygon375" />
+          <polygon
+             points="794.68,762.24 845.34,752.53 734.31,868.24 "
+             style="fill:#1a45b2"
+             id="polygon377" />
+          <polygon
+             points="844.99,694.32 794.68,762.24 845.34,752.53 "
+             style="fill:#092167"
+             id="polygon379" />
+          <polyline
+             points="640.13 114.04 640.49 148.44 695.25 142.59"
+             style="fill:#2258d9"
+             id="polyline381" />
+          <polygon
+             points="640.13,114.04 517.8,97.89 640.49,148.44 "
+             style="fill:#2257d7"
+             id="polygon383" />
+          <polygon
+             points="547.82,149.01 640.49,148.44 517.8,97.89 "
+             style="fill:#2257d7"
+             id="polygon385" />
+          <polygon
+             points="547.82,149.01 447.85,140.94 517.8,97.89 "
+             style="fill:#1a46b3"
+             id="polygon387" />
+          <polygon
+             points="447.85,140.94 517.8,97.89 423.87,98.83 "
+             style="fill:#163c9f"
+             id="polygon389" />
+          <polygon
+             points="423.87,98.83 447.85,140.94 329.9,136.51 "
+             style="fill:#103186"
+             id="polygon391" />
+          <polygon
+             points="329.9,136.51 447.85,140.94 393.67,194.85 "
+             style="fill:#163c9e"
+             id="polygon393" />
+          <polygon
+             points="187.95,197.36 226.1,234.11 268.46,142.13 "
+             style="fill:#031043"
+             id="polygon395" />
+          <polygon
+             points="226.1,234.11 268.46,142.13 329.9,136.51 "
+             style="fill:#030f41"
+             id="polygon397" />
+          <polygon
+             points="292.33,245.16 329.9,136.51 226.1,234.11 "
+             style="fill:#05164e"
+             id="polygon399" />
+          <polygon
+             points="329.9,136.51 393.67,194.85 292.33,245.16 "
+             style="fill:#092064"
+             id="polygon401" />
+          <polygon
+             points="131.6,294.44 187.95,197.36 127.56,255.17 "
+             style="fill:#030f41"
+             id="polygon403" />
+          <polygon
+             points="127.56,255.17 131.6,294.44 80.28,352.77 "
+             style="fill:#091f64"
+             id="polygon405" />
+          <polygon
+             points="187.95,197.36 226.1,234.11 131.6,294.44 "
+             style="fill:#041345"
+             id="polygon407" />
+          <polygon
+             points="131.6,294.44 80.28,352.77 128.19,378.6 "
+             style="fill:#0a226b"
+             id="polygon409" />
+          <polygon
+             points="131.6,294.44 198.19,348.64 128.19,378.6 "
+             style="fill:#091f64"
+             id="polygon411" />
+          <polygon
+             points="226.1,234.11 131.6,294.44 198.19,348.64 "
+             style="fill:#061853"
+             id="polygon413" />
+          <polygon
+             points="226.1,234.11 292.33,245.16 198.19,348.64 "
+             style="fill:#030f42"
+             id="polygon415" />
+          <polygon
+             points="80.28,352.77 128.19,378.6 70.22,441.25 "
+             style="fill:#0b2572"
+             id="polygon417" />
+          <polygon
+             points="68.11,537.91 40.73,560.38 94.21,702.09 "
+             style="fill:#173da9"
+             id="polygon419" />
+          <polygon
+             points="94.21,702.09 138.33,708.3 135.38,784.31 "
+             style="fill:#1a45b2"
+             id="polygon421" />
+          <polygon
+             points="138.33,708.3 107.44,635.98 94.21,702.09 "
+             style="fill:#1741aa"
+             id="polygon423" />
+          <polygon
+             points="68.11,537.91 107.44,635.98 94.21,702.09 "
+             style="fill:#10308b"
+             id="polygon425" />
+          <polygon
+             points="181.75,793.26 138.33,708.3 135.38,784.31 "
+             style="fill:#123390"
+             id="polygon427" />
+          <polygon
+             points="225.57,868.79 181.75,793.26 135.38,784.31 "
+             style="fill:#133493"
+             id="polygon429" />
+          <polygon
+             points="258.2,837.33 181.75,793.26 225.57,868.79 "
+             style="fill:#1a45b2"
+             id="polygon431" />
+          <polygon
+             points="336.71,897.93 258.2,837.33 225.57,868.79 "
+             style="fill:#163aa2"
+             id="polygon433" />
+          <polygon
+             points="394.33,924.94 473.09,910.23 336.71,897.93 "
+             style="fill:#1a45b2"
+             id="polygon435" />
+          <polygon
+             points="374.38,818.85 473.09,910.23 336.71,897.93 "
+             style="fill:#123392"
+             id="polygon437" />
+          <polygon
+             points="132.48,537.82 70.22,441.25 68.11,537.91 "
+             style="fill:#102f87"
+             id="polygon439" />
+          <polygon
+             points="132.48,537.82 128.19,378.6 70.22,441.25 "
+             style="fill:#081f63"
+             id="polygon441" />
+          <polygon
+             points="107.44,635.98 132.48,537.82 68.11,537.91 "
+             style="fill:#163ba4"
+             id="polygon443" />
+          <polygon
+             points="132.48,537.82 163.61,615.38 107.44,635.98 "
+             style="fill:#11318c"
+             id="polygon445" />
+          <polygon
+             points="163.61,615.38 107.44,635.98 138.33,708.3 "
+             style="fill:#123390"
+             id="polygon447" />
+          <polygon
+             points="257.7,782.47 163.61,615.38 138.33,708.3 "
+             style="fill:#123392"
+             id="polygon449" />
+          <polygon
+             points="257.7,782.47 138.33,708.3 181.75,793.26 "
+             style="fill:#163aa2"
+             id="polygon451" />
+          <polygon
+             points="257.7,782.47 181.75,793.26 258.2,837.33 "
+             style="fill:#1741aa"
+             id="polygon453" />
+          <polygon
+             points="257.7,782.47 374.38,818.85 258.2,837.33 "
+             style="fill:#123392"
+             id="polygon455" />
+          <polygon
+             points="336.71,897.93 374.38,818.85 258.2,837.33 "
+             style="fill:#123392"
+             id="polygon457" />
+          <polygon
+             points="483,820.09 374.38,818.85 473.09,910.23 "
+             style="fill:#0e2b80"
+             id="polygon459" />
+          <polygon
+             points="483,820.09 588.95,879.02 473.09,910.23 "
+             style="fill:#143698"
+             id="polygon461" />
+          <polygon
+             points="584.83,777.69 483,820.09 588.95,879.02 "
+             style="fill:#0d2878"
+             id="polygon463" />
+          <polygon
+             points="584.83,777.69 691.68,830.87 588.95,879.02 "
+             style="fill:#123392"
+             id="polygon465" />
+          <polygon
+             points="650.94,717.65 691.68,830.87 584.83,777.69 "
+             style="fill:#081f63"
+             id="polygon467" />
+          <polygon
+             points="741.66,679.1 650.94,717.65 691.68,830.87 "
+             style="fill:#061a57"
+             id="polygon469" />
+          <polygon
+             points="691.68,830.87 741.66,679.1 794.68,762.24 "
+             style="fill:#0f2f82"
+             id="polygon471" />
+          <polygon
+             points="844.99,694.32 741.66,679.1 794.68,762.24 "
+             style="fill:#092167"
+             id="polygon473" />
+          <polygon
+             points="741.66,679.1 852.17,612.75 844.99,694.32 "
+             style="fill:#05164f"
+             id="polygon475" />
+          <polyline
+             points="882.86 524.9 810.95 473.57 852.17 612.75 882.86 524.9"
+             style="fill:#051753"
+             id="polyline477" />
+          <polygon
+             points="854.3,415.01 810.95,473.57 882.86,524.9 "
+             style="fill:#031043"
+             id="polygon479" />
+          <polygon
+             points="852.17,612.75 745.06,564.94 741.66,679.1 "
+             style="fill:#031043"
+             id="polygon481" />
+          <polygon
+             points="641.5,577.61 650.94,717.65 741.66,679.1 "
+             style="fill:#030f41"
+             id="polygon483" />
+          <polygon
+             points="507.93,709.41 650.94,717.65 584.83,777.69 "
+             style="fill:#092167"
+             id="polygon485" />
+          <polygon
+             points="483,820.09 507.93,709.41 584.83,777.69 "
+             style="fill:#0f2f82"
+             id="polygon487" />
+          <polygon
+             points="483,820.09 348.75,732.05 374.38,818.85 "
+             style="fill:#123390"
+             id="polygon489" />
+          <polygon
+             points="348.75,732.05 257.7,782.47 374.38,818.85 "
+             style="fill:#0f2d84"
+             id="polygon491" />
+          <polygon
+             points="274.73,694.32 348.75,732.05 257.7,782.47 "
+             style="fill:#0e2b7e"
+             id="polygon493" />
+          <polygon
+             points="163.61,615.38 257.7,782.47 274.73,694.32 "
+             style="fill:#0f2e86"
+             id="polygon495" />
+          <polygon
+             points="507.93,709.41 348.75,732.05 483,820.09 "
+             style="fill:#081f63"
+             id="polygon497" />
+          <polygon
+             points="164.41,435.6 128.19,378.6 132.48,537.82 "
+             style="fill:#0a236c"
+             id="polygon499" />
+          <polygon
+             points="164.41,435.6 198.19,348.64 128.19,378.6 "
+             style="fill:#081f63"
+             id="polygon501" />
+          <polygon
+             points="338.33,307.68 292.33,245.16 198.19,348.64 "
+             style="fill:#05164e"
+             id="polygon503" />
+          <polygon
+             points="338.33,307.68 264.31,459.32 198.19,348.64 "
+             style="fill:#030f41"
+             id="polygon505" />
+          <polygon
+             points="641.5,577.61 745.06,564.94 741.66,679.1 "
+             style="fill:#05164f"
+             id="polygon507" />
+          <polygon
+             points="810.95,473.57 745.06,564.94 852.17,612.75 "
+             style="fill:#030f42"
+             id="polygon509" />
+          <polygon
+             points="536.4,606.6 641.5,577.61 650.94,717.65 "
+             style="fill:#030f41"
+             id="polygon511" />
+          <polygon
+             points="650.94,717.65 536.4,606.6 507.93,709.41 "
+             style="fill:#05164f"
+             id="polygon513" />
+          <polygon
+             points="429.6,645.45 536.4,606.6 507.93,709.41 "
+             style="fill:#031042"
+             id="polygon515" />
+          <polygon
+             points="854.3,415.01 784.98,362.3 810.95,473.57 "
+             style="fill:#0f2e82"
+             id="polygon517" />
+          <polygon
+             points="264.31,459.32 164.41,435.6 198.19,348.64 "
+             style="fill:#061853"
+             id="polygon519" />
+          <polygon
+             points="264.31,459.32 196.75,566.02 164.41,435.6 "
+             style="fill:#081f63"
+             id="polygon521" />
+          <polygon
+             points="393.67,194.85 292.33,245.16 338.33,307.68 "
+             style="fill:#081e5f"
+             id="polygon523" />
+          <polyline
+             points="196.75 566.02 164.41 435.6 132.48 537.82"
+             style="fill:#091f64"
+             id="polyline525" />
+          <polygon
+             points="196.75,566.02 163.61,615.38 132.48,537.82 "
+             style="fill:#11318c"
+             id="polygon527" />
+          <polygon
+             points="274.73,694.32 163.61,615.38 196.75,566.02 "
+             style="fill:#0e2b7e"
+             id="polygon529" />
+          <polygon
+             points="285.15,539.09 196.75,566.02 274.73,694.32 "
+             style="fill:#092167"
+             id="polygon531" />
+          <polygon
+             points="429.6,645.45 285.15,539.09 274.73,694.32 "
+             style="fill:#061a57"
+             id="polygon533" />
+          <polygon
+             points="414.51,525.44 285.15,539.09 429.6,645.45 "
+             style="fill:#05164f"
+             id="polygon535" />
+          <polygon
+             points="429.6,645.45 414.51,525.44 536.4,606.6 "
+             style="fill:#041245"
+             id="polygon537" />
+          <polygon
+             points="523.74,484.47 536.4,606.6 414.51,525.44 "
+             style="fill:#030f42"
+             id="polygon539" />
+          <polygon
+             points="507.93,709.41 429.6,645.45 348.75,732.05 "
+             style="fill:#092167"
+             id="polygon541" />
+          <polygon
+             points="274.73,694.32 429.6,645.45 348.75,732.05 "
+             style="fill:#0c2674"
+             id="polygon543" />
+          <polygon
+             points="433.19,317.74 393.67,194.85 338.33,307.68 "
+             style="fill:#0c2771"
+             id="polygon545" />
+          <polygon
+             points="393.67,194.85 433.19,317.74 482.06,230.78 "
+             style="fill:#153a99"
+             id="polygon547" />
+          <polygon
+             points="576.21,295.46 433.19,317.74 482.06,230.78 "
+             style="fill:#163da0"
+             id="polygon549" />
+          <polygon
+             points="573.48,392.34 523.74,484.47 433.19,317.74 "
+             style="fill:#11338b"
+             id="polygon551" />
+          <polygon
+             points="576.21,295.46 433.19,317.74 573.48,392.34 "
+             style="fill:#163ca0"
+             id="polygon553" />
+          <polygon
+             points="576.21,295.46 675.3,344.13 573.48,392.34 "
+             style="fill:#1a45b2"
+             id="polygon555" />
+          <polygon
+             points="523.74,484.47 364.92,404.7 433.19,317.74 "
+             style="fill:#0c266e"
+             id="polygon557" />
+          <polygon
+             points="523.74,484.47 364.92,404.7 414.51,525.44 "
+             style="fill:#071b5c"
+             id="polygon559" />
+          <polygon
+             points="663.82,458.82 573.48,392.34 523.74,484.47 "
+             style="fill:#0f2f82"
+             id="polygon561" />
+          <polygon
+             points="663.82,458.82 573.48,392.34 675.3,344.13 "
+             style="fill:#1741aa"
+             id="polygon563" />
+          <polygon
+             points="741.42,434.17 663.82,458.82 675.3,344.13 "
+             style="fill:#153a99"
+             id="polygon565" />
+          <polygon
+             points="675.3,344.13 741.42,434.17 784.98,362.3 "
+             style="fill:#1945b1"
+             id="polygon567" />
+          <polygon
+             points="810.95,473.57 784.98,362.3 741.42,434.17 "
+             style="fill:#12338c"
+             id="polygon569" />
+          <polygon
+             points="810.95,473.57 741.42,434.17 745.06,564.94 "
+             style="fill:#081e60"
+             id="polygon571" />
+          <polygon
+             points="741.42,434.17 663.82,458.82 745.06,564.94 "
+             style="fill:#081e5f"
+             id="polygon573" />
+          <polyline
+             points="663.82 458.82 641.5 577.61 745.06 564.94"
+             style="fill:#061a57"
+             id="polyline575" />
+          <polygon
+             points="663.82,458.82 641.5,577.61 523.74,484.47 "
+             style="fill:#031042"
+             id="polygon577" />
+          <polygon
+             points="641.5,577.61 523.74,484.47 536.4,606.6 "
+             style="fill:#05164f"
+             id="polygon579" />
+          <polygon
+             points="364.92,404.7 433.19,317.74 338.33,307.68 "
+             style="fill:#05174f"
+             id="polygon581" />
+          <polygon
+             points="264.31,459.32 364.92,404.7 338.33,307.68 "
+             style="fill:#061853"
+             id="polygon583" />
+          <polygon
+             points="285.15,539.09 414.51,525.44 364.92,404.7 "
+             style="fill:#030f41"
+             id="polygon585" />
+          <polygon
+             points="364.92,404.7 264.31,459.32 285.15,539.09 "
+             style="fill:#041245"
+             id="polygon587" />
+          <polygon
+             points="264.31,459.32 285.15,539.09 196.75,566.02 "
+             style="fill:#061a58"
+             id="polygon589" />
+          <path
+             d="m 922.81,571.94 v -0.19 0 l -4,-135.4 v -0.48 0 l -20.3,-67.57 v 0 -0.11 l -0.06,-0.14 V 368 L 840.14,258 v -0.05 l -0.07,-0.11 -0.07,-0.1 v -0.06 l -0.06,-0.07 v -0.05 L 773.5,187.28 v 0 l -0.12,-0.1 -0.09,-0.08 v 0 l -70.52,-50.48 h -0.07 l -0.15,-0.08 -0.15,-0.08 v 0 L 640.91,112.2 h -0.12 L 567.31,85.94 h -0.54 l -121,-7.72 h -0.48 L 369,91.94 h -0.25 l -62.19,19.17 v 0 l -0.14,0.06 -0.16,0.07 h -0.08 l -110.58,65 v 0 l -0.09,0.06 -0.08,0.06 -0.08,0.06 -0.07,0.05 -0.08,0.08 -0.06,0.06 v 0 l -69,77.21 v 0 0.12 l -0.06,0.09 v 0 L 62.2,357.81 v 0.06 l -0.06,0.11 v 0.12 l -0.05,0.14 v 0.06 L 37,446.54 v 0 0.4 0 l -4.86,134 v 0.63 0 L 56,672.75 v 0 0.07 a 1.08,1.08 0 0 0 0.08,0.19 v 0 0.1 0 L 108.77,777 v 0 0 l 0.1,0.17 v 0 L 146,827.38 v 0 0.06 l 0.11,0.11 0.08,0.09 51.36,47.22 0.13,0.1 0.1,0.09 64.14,43.51 v 0 l 0.15,0.09 h 0.08 l 79.09,34.5 h 0.08 l 0.18,0.06 h 0.31 l 132.37,15.58 h 0.18 l 69.11,1.93 h 0.07 a 1.27,1.27 0 0 0 0.39,0 h 0.14 l 102.29,-28.89 h 0.29 l 0.12,-0.05 v 0 l 91.38,-50.29 v 0 l 0.15,-0.11 v 0 l 0.12,-0.09 v 0 l 58.81,-50.29 0.06,-0.06 0.08,-0.07 0.07,-0.08 v 0 l 45.61,-54.56 v 0 a 1.43,1.43 0 0 0 0.16,-0.24 v -0.09 0 L 907.7,659.31 v -0.09 a 0.15,0.15 0 0 1 0.07,-0.15 v -0.34 L 922,572.16 v 0 -0.16 a 3.25,3.25 0 0 0 0.81,-0.06 z M 200.46,872 l -13.3,-12.23 29.92,23.5 z m 194.14,50.85 -46.75,-21.92 110.65,10 z m 17,-399.13 -122.74,13 75.69,-127.51 z m -42.8,-114.83 150,75.32 -103.18,38.67 z m 44,118.74 L 427,641.08 290.49,540.54 Z M 425.28,644.73 277,691.53 287,542.86 Z M 417,529.52 532,606.07 431.27,642.72 Z m 1.83,-3.59 L 522,487.25 534,602.58 Z M 577.36,392.71 673,347.45 662.18,455.13 Z m 81.55,65 -131.43,24 46.66,-86.44 z m -135.17,22.56 -85.62,-157.64 132.64,70.53 z m -4.8,-0.45 L 368,404 432.88,321.36 Z M 285.87,534 266.64,460.38 359.5,410 Z M 273.16,687.88 199.8,567.18 283,541.85 Z M 423,649.65 348.37,729.59 280,694.76 Z m 110.5,-39.84 -26.62,96.12 -73.23,-59.8 z M 526.22,489 l 110.94,87.75 -99,27.31 z m 2.23,-3.34 L 661.32,461.32 640.15,574 Z M 666.11,456 l 10.66,-106.48 61.38,83.59 z m 73.38,-19.11 3.4,121.94 -75.75,-99 z m -163.92,-47.75 2.55,-90.51 92.58,45.46 z m -4,-0.08 -132.14,-70.27 134.71,-21 z M 365.8,400.34 341,310 l 88.35,9.37 z m -3.23,3.36 -93.73,50.88 69,-141.26 z m -79.84,134 -81.4,24.8 62.21,-98.26 z M 268,687.08 166.37,614.88 196.69,569.73 Z m 8.2,10.23 68.3,34.81 -84,46.52 z m 153.6,-49.13 73.35,59.89 -149,21.2 z m 107.65,-37.8 108.26,105 -135.17,-7.79 z m 2.87,-2.78 99.36,-27.4 8.93,132.4 z M 665,463.59 741.39,563.38 644,575.3 Z M 743.56,437.65 808,474.21 746.89,559 Z m 0.68,-4.21 40,-65.91 23.82,102 z m -2.94,-2.87 -61.48,-83.67 101.91,16.89 z M 579.73,295 651.89,229.5 672.6,340.57 Z M 437,315.13 482.78,233.67 571,294.26 Z M 341.38,306 393.27,200.19 430.34,315.44 Z m -77.25,149.12 -62.9,-105.28 133.31,-39 z M 197.57,561 167.14,438.31 l 94,22.31 z m -33.51,50.13 -27.9,-69.51 57.6,25.27 z m 108.46,84.08 -15.75,81.54 -87,-154.56 z m 75,39.8 23.87,80.82 L 262.76,782 Z m 157.82,-23.21 -23.66,105 -127.4,-83.52 z m 140.72,7.57 -61.24,55.63 -71.25,-63.26 z m -2.21,-136.53 94.31,95.55 -85.42,36.31 z m 1.93,-3.75 97.22,-11.88 -3.2,107.15 z M 810.19,478 849,609.16 l -100.9,-45 z m -22,-110.79 63.33,48.15 -39.6,53.5 z m -109,-24.51 58.81,-67.52 43.43,84.46 z m -2.65,-3 -20.61,-110.37 79.29,42.91 z M 576,292.92 488.2,232.6 647.81,227.74 Z M 433.69,312.77 396.88,198.32 479.2,231.79 Z M 338,303.84 295.37,245.89 389.29,199.26 Z m -3,2.72 -130.54,38.17 87.72,-96.42 z m -74.84,149.72 -93.05,-22.09 31.46,-81 z M 193.83,562.55 134.92,536.7 164.19,443 Z m -32.83,51.66 -50.67,18.58 22.59,-88.55 z m 91.14,162.44 -111.49,-69.27 23.61,-86.78 z m 113.5,41.56 -105.46,16.79 -0.46,-49.79 z m -13.42,-81.5 124,81.3 -100.3,-1.14 z m 156.93,-23.55 72,63.91 -95.35,39.68 z m 140.93,8 38,105.71 -99.74,-49.67 z m 3.39,-2.39 84.91,-36.09 -46.78,142.05 z M 747,568 847.88,613 743.77,675.5 Z m 67.55,-89.41 66,47.08 -28.15,80.59 z m -0.75,-5.45 39.64,-53.56 26.13,100.5 z m -26.49,-111.58 18.41,-57.23 43.85,104.57 z m -2.77,-4.47 -41.94,-81.57 60.4,24.21 z m -124.3,-130 87.83,-5.75 -11.07,47.33 z m -173.91,1.53 61.84,-76.9 99.11,72 z m -3.65,-1.84 -31.84,-83.62 93,7.52 z m -4.13,0.39 -81.34,-33.06 49.86,-49.61 z m -182.73,14 L 330.8,140 390.17,194.32 Z M 202,341.5 l 25.6,-105.11 60.78,10.14 z m -38,89.7 -32.84,-51.68 63.46,-27.15 z m -1.75,4.7 -28.07,89.85 -3.77,-140 z M 129.9,539.82 107,629.55 71.07,539.9 Z m -59.74,-3.91 1.92,-88.09 56.73,88 z m 90.5,82.68 -22.75,83.63 -27.81,-65.09 z M 252,781.27 182.91,791.08 143.42,713.8 Z m 3.75,3.51 0.45,49.07 -68.4,-39.42 z M 371,821.43 336,894.84 263.12,838.59 Z m 4.08,0.74 92.41,85.55 -127.74,-11.53 z m 4.53,-1.26 101.22,1.15 -9.23,84 z M 583,780.64 l 3.86,94.9 -99.23,-55.19 z m 4,0.35 100.1,49.83 -96.26,45.12 z M 742.27,683.73 792,761.66 695.39,826 Z m 3.46,-2 95.69,14.1 -46.59,62.9 z m 1.78,-3.78 102.35,-61.44 -6.68,75.49 z m 135.16,-146.44 18.07,63.4 -45.36,14.69 z m -24,-107.82 51.84,65.46 -26.63,31.5 z m -48.56,-119.24 67.32,49.44 -23.15,55.91 z m -69.4,-34 10.86,-46.45 48.49,70.19 z m -85.84,-47 -11.69,-70.91 101.27,65 z m -4.44,-2.37 -96.51,-70.08 84.87,-0.53 z m -196.32,-81.64 63,-38.77 27,46 z m -60.5,52.65 -58.34,-53.37 107.91,4.05 z M 291,242.91 230.41,232.8 l 95,-89.27 z m -94,102.19 -62,-50.46 88,-56.16 z m -2.63,3 -64,27.4 3.12,-77 z M 130.29,530.73 72.74,441.46 126.32,383.55 Z M 105.36,636.17 94.44,690.77 72.89,555.18 Z m 2.77,6.53 27,63.13 -38.51,-5.41 z m 70,147.82 -40.66,-7.84 L 140,716 Z m 76.8,47.22 -28.93,27.84 -38.78,-66.85 z m 3.45,2.23 69.32,53.53 -98.18,-25.74 z m 226.28,-16.67 99,55.07 -108.26,29.17 z m 204.76,10.84 -5.42,69.25 -89.31,-24.85 z m 99.35,-65.56 -55,96.54 -38.82,-34 z m 54.23,-68.25 0.31,50.55 -44,8.42 z m 11,-86.09 44.73,-14.49 -51,86 z m 31,-88.87 25.39,-30 -8.28,90 z m -28.4,-110.68 22.8,-55.06 29.54,121.15 z M 808.1,298 l 16,-28 48.27,75.26 z m -2.78,-3.19 -47.38,-68.58 63.39,40.53 z m -159,-145 48,-5.12 48.52,67.09 z M 549,147 l -26.42,-45 108,44.49 z m -100.39,-8.85 -21.27,-37.36 83.33,-0.83 z m -4.23,0.65 -105,-3.94 L 423,101.33 Z M 232.21,225.62 269.79,144 324.3,139 Z m -6.75,5.1 -34.36,-33.1 72.51,-49.74 z m -2.58,3.07 -85.42,54.53 50.94,-87.75 z M 126.32,375.32 83.45,352.21 129.37,300 Z m -1.32,3.81 -52.1,56.28 9,-79.47 z M 66.13,537 l -22,18 23.71,-95.77 z m 0.55,4.72 22.48,141.28 -46,-122 z m 69.58,168.28 -2.58,66.43 -36,-71.85 z m 44.21,85 36.53,63 -75.2,-70.41 z m 154.17,104.4 -1.59,36.49 -95.92,-62.06 z m 3.94,1.56 49.78,23.34 -51.36,12.64 z m 132.59,11.61 1.55,51.18 -72.35,-38 z M 585.51,882 l -29.34,69.3 -77.6,-40.47 z m 4.6,-0.6 89.24,24.83 -118.53,44.34 z m 103.25,-46.4 37.81,33.14 -43,33.46 z M 796,764 839.59,755.65 744,855.23 Z m 51.33,-19.32 -0.3,-49.27 40.17,-24.61 z m 3.54,-56.31 48.81,-82.25 -9,57.84 z m 62.24,-177.62 5.69,60.47 -12.9,17.87 z m -29.64,-151.5 11.15,10.49 11.15,81 z m -56.53,-92.39 10.49,-5.28 30.34,68.94 z m -73.42,-48.26 18.42,-26.44 45.09,67 z m -2.86,-2.89 -48,-66.4 66.47,39.92 z m -108.2,-69.49 -0.3,-28.87 46.26,24 z m -4,-0.78 -105.72,-43.56 105.41,13.92 z M 429.33,96.77 446.16,82.29 502,96 Z m -91.92,34.57 32.73,-35.34 45.26,4.08 z m -8.41,3.25 -49.56,4.53 81.37,-38.89 z m -136.34,57.11 5.48,-12.3 45.48,-22.67 z m -59.66,96.41 -3.31,-32.17 49.47,-47.36 z m -3.44,5.66 -41,46.64 37.8,-78 z M 68.4,439.55 42.21,444.44 76.8,365.67 Z M 67.53,443.78 42.48,545 40.89,448.75 Z m 22.15,252 -29.77,-24.59 -14.26,-92.12 z m 41.75,85.14 -19,-6.28 -12.74,-57.13 z M 212.72,859.51 149.53,825 139.39,790.81 Z m 11.52,10.85 27.36,35 -83.6,-65.73 z m 10.23,6.64 87,56.28 -56.92,-17.84 z m 159.59,50.13 67.6,35.47 -117.51,-23.29 z m 81.13,-13.48 75.68,39.35 -74.13,11.79 z m 200.87,-1.84 -30.72,26.58 -69.13,10.71 z m 56.78,-39.84 2.56,16.58 -39.7,12.3 z m 103,-106.65 -40.79,72.68 -52,24 z M 847.23,753.19 874.59,702.53 845.41,772 Z M 905.1,597 l 10.33,-14.3 -16.6,54.74 z M 915,489 v 0 -0.09 0 l -0.15,-1.06 1,-13.56 1,35.11 z m -2.75,-20 -10.25,-75 12.8,42.58 z m -30.7,-117 -18.86,-42.86 26.39,49.94 z m -56.86,-88.51 -37.66,-56 48,50.78 z m -125.82,-121 2.52,-1.82 29,20.73 z m -3.8,-2.19 -19.57,-10.19 21.76,8.56 z M 529.81,97.46 566.5,89.9 l 55.21,19.69 z m -12,-1.62 -50,-12.31 83.76,5.35 z m -94.64,0.92 -39,-3.51 54.52,-9.87 z m -137.5,34.91 22.33,-16.76 35.94,-11.08 z m -18.3,8.75 -19.37,9.64 29.73,-17.45 z m -81.13,55.77 -22.94,22 26.23,-29.34 z M 78.8,351.19 68.64,355 108.26,290.47 Z m -13.29,9.2 11,-4.09 -27.79,63.36 z m -27.37,164.42 0.58,35.27 -2,6.41 z m 1.91,44.28 10,64.83 L 36.26,581 Z M 92.41,703.2 105.3,761.06 64.16,679.89 Z m 41.35,82.69 9,30.11 -26.64,-36 z m 199.83,155.32 3.73,6 -39.1,-17.05 z m 10,8.51 -4.59,-7.34 85.06,16.81 z m 208.41,7.2 -9,10.15 -46.69,-1.3 z m 6.2,-1 55.66,-8.67 -63.93,18.06 z m 128.61,-48.19 32.64,-10.12 -57.56,31.68 z m 52.27,-21.73 -2.56,-16.61 47.7,-22 z m 103.32,-124.14 -2.23,22.32 -31.37,37.53 z m 51.6,-95.17 8.06,-3.89 -36.89,72.42 z m 10.73,-9.63 -9,4.37 18.19,-60 z"
+             style="fill:#58c1ff;fill-opacity:0.3"
+             id="path591"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 80,726.72 c 51.48,39.42 209.8,68.08 396.9,68.08 187.1,0 345.08,-28.62 397,-67.94"
+             style="fill:none;stroke:#f9f9fa;stroke-width:6px;stroke-linecap:round;stroke-miterlimit:10"
+             id="path593"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 770.28,91.82 c -23.95,27.88 -35.1,90.64 -10.82,154.26 24.28,63.62 61.5,49.8 84.7,114.67 30.62,85.6 16.37,200.59 16.37,200.59 0,0 36.82,106.6 62.47,-6.64 C 979.79,342 770.28,144.2 770.28,91.82 Z"
+             style="fill:url(#linear-gradient)"
+             id="path595"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 810.67,803.89 a 245.54,245.54 0 0 1 -30.12,18.18 702.48,702.48 0 0 0 38.3,-63 C 828.31,748.6 837,738.42 844,727.42 c 3.44,-5.41 7.31,-12.08 11.42,-19.82 24.92,-44.9 52.4,-117.56 53.18,-192.2 v -5.69 A 257.57,257.57 0 0 0 902.93,454 c 0.2,1.43 0.38,2.86 0.56,4.29 -0.22,-1.1 -0.41,-2.21 -0.64,-3.31 0.37,2 0.66,4 1,6 5.09,43.22 1.47,85.37 -16.68,116.45 -0.29,0.45 -0.58,0.88 -0.87,1.32 9.41,-47.23 12.56,-99.39 2.09,-151.6 0,0 -4.19,-25.38 -35.38,-102.44 C 835,280.36 803.18,244 775,217.5 750.31,186.95 727.89,166.5 715.53,153.44 689.71,126.25 678.89,105.87 674.44,92.57 670.59,90.64 621.3,42.76 617.39,40.94 c -21.51,33.35 -89.16,137.67 -57,235.15 14.58,44.17 51.47,90 90.07,115.74 1.69,1.94 23,25 33.09,77.16 10.45,53.85 5,95.86 -16.54,158 C 641.73,681.5 577,735.38 516.3,740.89 386.63,752.67 339.15,675.78 339.15,675.78 c 46.34,18.52 97.57,14.65 128.72,-4.56 31.4,-19.43 50.39,-33.83 65.81,-28.15 15.2,5.65 27.3,-10.76 16.44,-27.77 a 78.52,78.52 0 0 0 -79.4,-34.57 c -31.43,5.11 -60.23,30 -101.41,5.89 a 82.13,82.13 0 0 1 -7.73,-5.06 c -2.71,-1.79 8.83,2.72 6.13,0.69 -8,-4.35 -22.2,-13.84 -25.88,-17.22 -0.61,-0.56 6.22,2.18 5.61,1.62 -38.51,-31.71 -33.7,-53.13 -32.49,-66.57 1,-10.75 8,-24.52 19.75,-30.11 5.69,3.11 9.24,5.48 9.24,5.48 0,0 -2.43,-5 -3.74,-7.58 0.46,-0.2 0.9,-0.15 1.36,-0.34 4.66,2.25 15,8.1 20.41,11.67 7.07,5 9.33,9.44 9.33,9.44 0,0 1.86,-1 0.48,-5.37 -0.5,-1.78 -2.65,-7.45 -9.65,-13.17 h 0.44 a 81.61,81.61 0 0 1 11.87,8.24 c 2,-7.18 5.53,-14.68 4.75,-28.09 -0.48,-9.43 -0.26,-11.87 -1.92,-15.51 -1.49,-3.13 0.83,-4.35 3.42,-1.1 a 32.65,32.65 0 0 0 -2.21,-7.4 V 426 c 3.23,-11.24 68.25,-40.46 73,-43.88 a 67.2,67.2 0 0 0 19.13,-20.8 c 3.62,-5.76 6.34,-13.85 7,-26.11 0.36,-8.84 -3.76,-14.73 -69.51,-21.62 -18,-1.77 -28.53,-14.8 -34.53,-26.82 -1.09,-2.59 -2.21,-4.94 -3.33,-7.28 a 57.31,57.31 0 0 1 -2.56,-8.43 c 10.75,-30.87 28.81,-57 55.37,-76.7 1.45,-1.32 -5.78,0.34 -4.34,-1 1.69,-1.54 12.71,-6 14.79,-7 2.54,-1.2 -10.88,-6.9 -22.73,-5.51 -12.07,1.36 -14.63,2.8 -21.07,5.53 2.67,-2.66 11.17,-6.15 9.18,-6.13 -13,2 -29.18,9.56 -43,18.12 a 10.66,10.66 0 0 1 0.83,-4.35 c -6.44,2.73 -22.26,13.79 -26.87,23.14 a 44.19,44.19 0 0 0 0.27,-5.4 84.57,84.57 0 0 0 -13.19,13.82 l -0.24,0.22 c -37.36,-15 -70.23,-16 -98.05,-9.28 -6.09,-6.11 -9.06,-1.64 -22.91,-32.07 -0.94,-1.83 0.72,1.81 0,0 -2.28,-5.9 1.39,7.87 0,0 -23.28,18.37 -53.92,39.19 -68.63,53.89 -0.18,0.59 17.16,-4.9 0,0 -6,1.72 -5.6,5.28 -6.51,37.5 -0.22,2.44 0,5.18 -0.22,7.38 -11.75,15 -19.75,27.64 -22.78,34.21 -15.19,26.18 -31.93,67 -48.15,131.55 A 334.2,334.2 0 0 1 75.2,398.62 c -13.49,34.27 -26.53,88.08 -29.14,171 A 482.08,482.08 0 0 1 58.59,518.96 473,473 0 0 0 93.33,720 c 9.33,22.82 24.76,57.46 51,95.4 82.53,86.84 198.95,140.9 327.85,140.9 134.61,-0.03 255.46,-58.91 338.49,-152.41 z"
+             style="fill:url(#linear-gradient-2)"
+             id="path597"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 810.67,803.89 a 245.54,245.54 0 0 1 -30.12,18.18 702.48,702.48 0 0 0 38.3,-63 C 828.31,748.6 837,738.42 844,727.42 c 3.44,-5.41 7.31,-12.08 11.42,-19.82 24.92,-44.9 52.4,-117.56 53.18,-192.2 v -5.69 A 257.57,257.57 0 0 0 902.93,454 c 0.2,1.43 0.38,2.86 0.56,4.29 -0.22,-1.1 -0.41,-2.21 -0.64,-3.31 0.37,2 0.66,4 1,6 5.09,43.22 1.47,85.37 -16.68,116.45 -0.29,0.45 -0.58,0.88 -0.87,1.32 9.41,-47.23 12.56,-99.39 2.09,-151.6 0,0 -4.19,-25.38 -35.38,-102.44 C 835,280.36 803.18,244 775,217.5 750.31,186.95 727.89,166.5 715.53,153.44 689.71,126.25 678.89,105.87 674.44,92.57 670.59,90.64 621.3,42.76 617.39,40.94 c -21.51,33.35 -89.16,137.67 -57,235.15 14.58,44.17 51.47,90 90.07,115.74 1.69,1.94 23,25 33.09,77.16 10.45,53.85 5,95.86 -16.54,158 C 641.73,681.5 577,735.38 516.3,740.89 386.63,752.67 339.15,675.78 339.15,675.78 c 46.34,18.52 97.57,14.65 128.72,-4.56 31.4,-19.43 50.39,-33.83 65.81,-28.15 15.2,5.65 27.3,-10.76 16.44,-27.77 a 78.52,78.52 0 0 0 -79.4,-34.57 c -31.43,5.11 -60.23,30 -101.41,5.89 a 82.13,82.13 0 0 1 -7.73,-5.06 c -2.71,-1.79 8.83,2.72 6.13,0.69 -8,-4.35 -22.2,-13.84 -25.88,-17.22 -0.61,-0.56 6.22,2.18 5.61,1.62 -38.51,-31.71 -33.7,-53.13 -32.49,-66.57 1,-10.75 8,-24.52 19.75,-30.11 5.69,3.11 9.24,5.48 9.24,5.48 0,0 -2.43,-5 -3.74,-7.58 0.46,-0.2 0.9,-0.15 1.36,-0.34 4.66,2.25 15,8.1 20.41,11.67 7.07,5 9.33,9.44 9.33,9.44 0,0 1.86,-1 0.48,-5.37 -0.5,-1.78 -2.65,-7.45 -9.65,-13.17 h 0.44 a 81.61,81.61 0 0 1 11.87,8.24 c 2,-7.18 5.53,-14.68 4.75,-28.09 -0.48,-9.43 -0.26,-11.87 -1.92,-15.51 -1.49,-3.13 0.83,-4.35 3.42,-1.1 a 32.65,32.65 0 0 0 -2.21,-7.4 V 426 c 3.23,-11.24 68.25,-40.46 73,-43.88 a 67.2,67.2 0 0 0 19.13,-20.8 c 3.62,-5.76 6.34,-13.85 7,-26.11 0.36,-8.84 -3.76,-14.73 -69.51,-21.62 -18,-1.77 -28.53,-14.8 -34.53,-26.82 -1.09,-2.59 -2.21,-4.94 -3.33,-7.28 a 57.31,57.31 0 0 1 -2.56,-8.43 c 10.75,-30.87 28.81,-57 55.37,-76.7 1.45,-1.32 -5.78,0.34 -4.34,-1 1.69,-1.54 12.71,-6 14.79,-7 2.54,-1.2 -10.88,-6.9 -22.73,-5.51 -12.07,1.36 -14.63,2.8 -21.07,5.53 2.67,-2.66 11.17,-6.15 9.18,-6.13 -13,2 -29.18,9.56 -43,18.12 a 10.66,10.66 0 0 1 0.83,-4.35 c -6.44,2.73 -22.26,13.79 -26.87,23.14 a 44.19,44.19 0 0 0 0.27,-5.4 84.57,84.57 0 0 0 -13.19,13.82 l -0.24,0.22 c -37.36,-15 -70.23,-16 -98.05,-9.28 -6.09,-6.11 -9.06,-1.64 -22.91,-32.07 -0.94,-1.83 0.72,1.81 0,0 -2.28,-5.9 1.39,7.87 0,0 -23.28,18.37 -53.92,39.19 -68.63,53.89 -0.18,0.59 17.16,-4.9 0,0 -6,1.72 -5.6,5.28 -6.51,37.5 -0.22,2.44 0,5.18 -0.22,7.38 -11.75,15 -19.75,27.64 -22.78,34.21 -15.19,26.18 -31.93,67 -48.15,131.55 A 334.2,334.2 0 0 1 75.2,398.62 c -13.49,34.27 -26.53,88.08 -29.14,171 A 482.08,482.08 0 0 1 58.59,518.96 473,473 0 0 0 93.33,720 c 9.33,22.82 24.76,57.46 51,95.4 82.53,86.84 198.95,140.9 327.85,140.9 134.61,-0.03 255.46,-58.91 338.49,-152.41 z"
+             style="fill:url(#linear-gradient-3)"
+             id="path599"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 711.1,867 C 874,848.14 946.1,680.3 853.48,677 769.85,674.3 634,875.87 711.1,867 Z"
+             style="fill:url(#linear-gradient-4)"
+             id="path601"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 865.21,642.68 C 977.26,577.47 948,436.6 948,436.6 c 0,0 -43.25,50.24 -72.62,130.32 -28.98,79.3 -77.54,115.15 -10.17,75.76 z"
+             style="fill:url(#linear-gradient-5)"
+             id="path603"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 509.47,950.32 C 665.7,1000.17 800,877.1 717.21,836 642,798.93 435.32,926.75 509.47,950.32 Z"
+             style="fill:url(#linear-gradient-6)"
+             id="path605"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 638.58,21.68 0.53,-0.57 a 1.8,1.8 0 0 0 -0.53,0.57 z m 238.27,680.81 c 3.8,-5.36 8.94,-22.53 13.48,-30.21 27.58,-44.52 27.78,-80 27.78,-80.84 16.66,-83.22 15.15,-117.2 4.9,-180 -8.25,-50.6 -44.32,-123.09 -75.57,-158 -32.2,-36 -9.51,-24.25 -40.69,-50.52 C 779.42,172.63 752.93,142.63 738.5,130.56 634.22,43.35 636.57,24.84 638.58,21.68 c -0.34,0.37 -0.84,0.92 -1.47,1.64 -1.23,-4.92 -2.11,-9.06 -2.11,-9.06 0,0 -57,57 -69,152 -7.83,62 15.38,126.68 49,168 a 381.17,381.17 0 0 0 59,58 v 0 c 25.4,36.48 39.38,81.49 39.38,129.91 0,121.24 -98.34,219.53 -219.65,219.53 A 220.14,220.14 0 0 1 444.6,736.18 C 387.36,725.27 354.31,696.4 337.83,676.8 c -9.45,-11.23 -13.46,-19.42 -13.46,-19.42 51.28,18.37 108,14.53 142.47,-4.52 34.75,-19.26 55.77,-33.55 72.84,-27.92 16.82,5.61 30.21,-10.67 18.2,-27.54 -11.77,-16.85 -42.4,-41 -87.88,-34.29 -34.79,5.07 -66.66,29.76 -112.24,5.84 a 92.59,92.59 0 0 1 -8.55,-5 c -3,-1.77 9.77,2.69 6.79,0.68 -8.87,-4.32 -24.57,-13.73 -28.64,-17.07 -0.68,-0.56 6.88,2.16 6.2,1.6 -42.62,-31.45 -37.3,-52.69 -36,-66 1.07,-10.66 8.81,-24.32 21.86,-29.86 6.3,3.08 10.23,5.43 10.23,5.43 0,0 -2.69,-4.92 -4.14,-7.51 0.51,-0.19 1,-0.15 1.5,-0.34 5.16,2.23 16.58,8 22.59,11.57 7.83,4.95 10.32,9.36 10.32,9.36 0,0 2.06,-1 0.54,-5.33 -0.56,-1.77 -2.93,-7.39 -10.68,-13.07 h 0.48 a 91.65,91.65 0 0 1 13.13,8.17 c 2.19,-7.12 6.12,-14.56 5.25,-27.86 -0.53,-9.35 -0.28,-11.78 -2.12,-15.39 -1.65,-3.1 0.92,-4.31 3.78,-1.09 a 29.87,29.87 0 0 0 -2.44,-7.34 v -0.24 c 3.57,-11.14 75.53,-40.12 80.77,-43.51 a 70.12,70.12 0 0 0 21.17,-20.63 c 4,-5.72 7,-13.73 7.75,-25.89 0.25,-5.48 -1.44,-9.82 -20.5,-14 -11.44,-2.49 -29.14,-4.91 -56.43,-7.47 -19.9,-1.76 -31.58,-14.68 -38.21,-26.6 -1.21,-2.57 -2.45,-4.9 -3.68,-7.22 A 53.41,53.41 0 0 1 355.9,256 158.47,158.47 0 0 1 417.18,179.94 c 1.6,-1.31 -6.4,0.33 -4.8,-1 1.87,-1.52 14.06,-5.93 16.37,-6.92 2.81,-1.19 -12,-6.84 -25.16,-5.47 -13.36,1.35 -16.19,2.78 -23.32,5.49 3,-2.64 12.37,-6.1 10.16,-6.08 -14.4,2 -32.3,9.48 -47.6,18 a 9.75,9.75 0 0 1 0.92,-4.31 c -7.13,2.71 -24.64,13.67 -29.73,23 a 39.79,39.79 0 0 0 0.29,-5.35 89,89 0 0 0 -14.6,13.7 l -0.27,0.22 c -41.3,-14.95 -77.69,-15.91 -108.44,-9.2 -6.74,-6.06 -17.57,-15.23 -32.89,-45.4 -1,-1.82 -1.6,3.75 -2.4,2 -6,-13.81 -9.55,-36.44 -9,-52 0,0 -12.32,5.61 -22.51,29.06 -1.89,4.21 -3.11,6.54 -4.32,8.87 -0.56,0.68 1.27,-7.7 1,-7.24 -1.77,3 -6.36,7.19 -8.37,12.62 -1.38,4 -3.32,6.27 -4.56,11.29 l -0.29,0.46 c -0.1,-1.48 0.37,-6.08 0,-5.14 a 237,237 0 0 0 -12.31,29.84 c -5.49,18 -11.88,42.61 -12.89,74.57 -0.24,2.42 0,5.14 -0.25,7.32 C 69.2,283 60.34,295.54 57,302.06 40.18,328 21.66,368.49 3.71,432.52 a 319.8,319.8 0 0 1 28.54,-50 C 17.32,416.51 2.89,469.88 0,552.05 a 437.48,437.48 0 0 1 13.87,-50.24 c -2.58,54.8 3.81,122.74 38.45,199.39 20.57,45.09 67.92,136.65 183.62,208.1 v 0 c 0,0 39.36,29.3 107,51.26 5,1.81 10.06,3.6 15.23,5.33 q -2.43,-1 -4.71,-2 a 484.42,484.42 0 0 0 138.8,20.4 c 175.18,0.15 226.85,-70.2 226.85,-70.2 l -0.51,0.38 q 3.71,-3.48 7.14,-7.26 c -27.63,26.12 -90.74,27.84 -114.29,26 40.22,-11.81 66.69,-21.81 118.17,-41.52 q 9,-3.36 18.48,-7.64 l 2,-0.94 c 1.25,-0.58 2.49,-1.13 3.75,-1.74 a 348.86,348.86 0 0 0 70.26,-44 c 51.7,-41.3 63,-81.56 68.83,-108.1 -0.82,2.54 -3.37,8.47 -5.17,12.32 -13.31,28.48 -42.84,46 -74.91,61 A 689.46,689.46 0 0 0 855.3,740 c 10.47,-10.35 13.7,-26.59 21.55,-37.51 z"
+             style="fill:url(#radial-gradient)"
+             id="path607"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 813.92,801.24 c 21.08,-23.24 40,-49.82 54.35,-80 36.9,-77.58 94,-206.58 49,-341.31 C 881.77,273.48 833,215.25 771.11,158.38 670.56,66 642.48,24.78 642.48,0.26 c 0,0 -116.09,129.41 -65.74,264.38 50.35,134.97 153.46,130 221.68,270.87 80.27,165.74 -64.95,346.61 -185,397.24 7.35,-1.63 267,-60.38 280.61,-208.88 -0.35,2.73 -6.2,43.8 -80.11,77.37 z"
+             style="fill:url(#linear-gradient-7)"
+             id="path609"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 477.59,319.63 c 0.39,-8.77 -4.16,-14.66 -76.68,-21.46 -29.84,-2.76 -41.26,-30.33 -44.75,-41.94 -10.61,27.56 -15,56.49 -12.64,91.48 1.61,22.92 17,47.52 24.37,62 0,0 1.64,-2.13 2.39,-2.91 13.86,-14.43 71.94,-36.42 77.39,-39.54 6.02,-3.84 28.91,-20.57 29.92,-47.63 z"
+             style="fill:url(#linear-gradient-8)"
+             id="path611"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 477.59,319.63 c 0.39,-8.77 -4.16,-14.66 -76.68,-21.46 -29.84,-2.76 -41.26,-30.33 -44.75,-41.94 -10.61,27.56 -15,56.49 -12.64,91.48 1.61,22.92 17,47.52 24.37,62 0,0 1.64,-2.13 2.39,-2.91 13.86,-14.43 71.94,-36.42 77.39,-39.54 6.02,-3.84 28.91,-20.57 29.92,-47.63 z"
+             style="fill:url(#linear-gradient-9)"
+             id="path613"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 158.31,156.73 c -1,-1.82 -1.6,3.75 -2.4,2 -6,-13.81 -9.58,-36.2 -8.72,-52 0,0 -12.32,5.61 -22.51,29.06 -1.89,4.21 -3.11,6.54 -4.32,8.86 -0.56,0.68 1.27,-7.7 1,-7.24 -1.77,3 -6.36,7.19 -8.35,12.38 -1.65,4.24 -3.35,6.52 -4.61,11.77 -0.39,1.43 0.39,-6.32 0,-5.38 C 84.72,201.94 80.19,271.23 82.69,268.3 133.17,214.4 191,201.62 191,201.62 c -6.15,-4.53 -19.53,-17.63 -32.7,-44.89 z"
+             style="fill:url(#linear-gradient-10)"
+             id="path615"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 349.84,720.36 c -69.72,-29.77 -149,-71.75 -146,-167.14 C 207.92,427.6 321,452.43 321,452.43 c -4.27,1 -15.68,9.16 -19.72,17.82 -4.27,10.83 -12.07,35.28 11.55,60.9 37.09,40.19 -76.2,95.36 98.66,199.57 4.41,2.4 -41,-1.43 -61.64,-10.36 z"
+             style="fill:url(#linear-gradient-11)"
+             id="path617"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 325.07,657.76 c 49.44,17.21 107,14.19 141.52,-4.86 23.09,-12.85 52.7,-33.43 70.92,-28.35 -15.78,-6.24 -27.73,-9.15 -42.1,-9.86 -2.45,0 -5.38,-0.05 -8,-0.32 a 138.21,138.21 0 0 0 -15.76,0.86 c -8.9,0.82 -18.77,6.43 -27.74,5.53 -0.48,0 8.7,-3.77 8,-3.61 -4.75,1 -9.92,1.21 -15.37,1.88 -3.47,0.39 -6.45,0.82 -9.89,1 -103,8.73 -190,-55.81 -190,-55.81 -7.41,25 33.17,74.3 88.52,93.57 z"
+             style="fill:url(#linear-gradient-12)"
+             id="path619"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 813.74,801.9 C 917.9,699.63 970.6,575.32 948.32,435.9 c 0,0 8.9,71.5 -24.85,144.63 16.21,-71.39 18.1,-160.11 -25,-252 C 841,205.89 746.45,141.37 710.35,114.45 655.66,73.66 633,32.13 632.57,23.55 c -16.34,33.48 -65.77,148.2 -5.31,247 56.64,92.56 145.86,120 208.33,205 115.08,156.37 -21.85,326.35 -21.85,326.35 z"
+             style="fill:url(#linear-gradient-13)"
+             id="path621"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 798.81,535.81 c -36.4,-75.2 -81.84,-108 -124.81,-143.55 5,7 6.23,9.47 9,14 37.83,40.32 93.61,138.66 53.11,262.11 C 659.88,900.74 355,791.31 323,760.58 335.93,895.07 561,959.42 707.6,872.21 791,793.26 858.47,659 798.81,535.81 Z"
+             style="fill:url(#linear-gradient-14)"
+             id="path623"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 814.12,686.64 0.94,-4.85 c 0.32,-1.75 0.75,-3.6 1,-5.61 0.61,-4 1.38,-8.47 1.87,-13.43 a 237.9,237.9 0 0 0 1.48,-35 A 223.29,223.29 0 0 0 813.6,584 232.05,232.05 0 0 0 796.18,535.25 336.56,336.56 0 0 0 766.59,485.44 C 760.79,477.2 754.28,469.26 747.5,461.38 740.72,453.5 733.27,446 725.58,438.59 717.89,431.18 709.75,424 701.44,417 c -8.31,-7 -16.85,-14 -25.36,-21 -8.51,-7 -17,-14.14 -25.3,-21.61 -8.3,-7.47 -16.23,-15.28 -23.73,-23.51 a 243.77,243.77 0 0 1 -20.75,-26 l -2.3,-3.42 c -0.79,-1.13 -1.57,-2.27 -2.28,-3.45 l -4.37,-7 c -1.44,-2.34 -2.72,-4.77 -4.08,-7.14 l -2,-3.57 c -0.66,-1.2 -1.24,-2.43 -1.86,-3.64 l -3.67,-7.29 c -1.14,-2.46 -2.22,-4.94 -3.34,-7.4 -2.31,-4.88 -4.12,-9.94 -6.13,-14.88 l -0.74,-1.86 -0.64,-1.9 -1.27,-3.79 c -0.83,-2.52 -1.71,-5 -2.49,-7.54 l -2,-7.63 -1,-3.8 c -0.36,-1.26 -0.53,-2.55 -0.8,-3.82 a 212.28,212.28 0 0 1 -3.8,-59.83 261.53,261.53 0 0 1 10.19,-53.46 310.75,310.75 0 0 1 17,-44.06 373.62,373.62 0 0 1 18.17,-33.81 366.73,366.73 0 0 1 24.69,-36 c 2.56,-3.27 5.11,-6.43 7.66,-9.35 a 1,1 0 0 1 1.31,0 1,1 0 0 1 0.17,1.29 c -2.42,2.81 -5,6 -7.55,9.3 a 376,376 0 0 0 -43,70.76 309.24,309.24 0 0 0 -16.54,43.94 256.66,256.66 0 0 0 -9.66,53 213.15,213.15 0 0 0 4.27,58.87 c 0.13,0.63 0.24,1.26 0.38,1.88 l 0.49,1.86 1,3.73 c 0.68,2.48 1.28,5 2,7.48 l 2.49,7.4 1.25,3.72 c 0.41,1.24 1,2.45 1.42,3.67 l 2.94,7.35 0.74,1.84 0.82,1.81 1.64,3.63 1.64,3.64 c 0.55,1.21 1.08,2.44 1.7,3.62 l 3.63,7.16 a 247.86,247.86 0 0 0 37.41,53.14 c 7.43,8.06 15.32,15.72 23.5,23.07 8.18,7.35 16.66,14.36 25.13,21.33 8.47,6.97 17,13.82 25.32,20.84 8.32,7.02 16.44,14.16 24.23,21.51 7.79,7.35 15.15,15 22.09,22.84 a 287.17,287.17 0 0 1 19.3,24.16 341.24,341.24 0 0 1 30,50.05 l 0.79,1.55 0.72,1.58 1.44,3.14 c 0.94,2.09 1.93,4.15 2.81,6.23 l 2.51,6.25 1.17,3.12 c 0.39,1 0.73,2.08 1.1,3.12 l 2.15,6.17 c 0.37,1 0.68,2 1,3.07 l 0.91,3.07 c 0.59,2 1.23,4 1.77,6.06 l 1.48,6 A 227.32,227.32 0 0 1 823.32,627 241.84,241.84 0 0 1 822,662.8 c -1.06,10.17 -2.69,18.44 -3.92,24.66 a 282.32,282.32 0 0 1 -9.88,35.23 298.31,298.31 0 0 1 -12.74,30.91 c -4.59,9.51 -9.21,18.33 -14,26.26 l -1.73,3 -1.73,2.86 -3.45,5.54 c -2.34,3.55 -4.57,7 -6.77,10.15 -4.42,6.36 -8.57,12 -12.3,16.73 l -5.27,6.59 -4.57,5.37 -2,2.26 -1.76,1.93 q -1.64,1.8 -2.79,3 c -1.52,1.59 -2.37,2.37 -2.47,2.28 -0.1,-0.09 0.57,-1.07 1.94,-2.88 1.37,-1.81 3.49,-4.39 6.08,-7.84 C 749.93,822 757.43,812 766,799 c 2.08,-3.28 4.3,-6.7 6.51,-10.34 2.21,-3.64 4.5,-7.43 6.7,-11.46 q 6.82,-12 13.38,-26.17 c 1.06,-2.37 2.2,-4.74 3.23,-7.2 l 3.12,-7.46 c 2,-5.08 4,-10.27 5.8,-15.67 a 292.34,292.34 0 0 0 9.38,-34.06 z"
+             style="fill:url(#linear-gradient-15)"
+             id="path625"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 739.36,650 c 0.52,-2.06 1.32,-4.8 2,-8.22 0.68,-3.42 1.74,-7.41 2.49,-12 0.4,-2.29 0.87,-4.71 1.29,-7.26 l 1.11,-8 0.29,-2.11 0.22,-2.16 0.44,-4.45 c 0.14,-1.51 0.32,-3 0.43,-4.59 l 0.28,-4.75 a 262.14,262.14 0 0 0 -0.93,-41.93 l -0.27,-2.79 -0.37,-2.79 -0.75,-5.61 c -0.23,-1.88 -0.61,-3.74 -0.92,-5.63 -0.31,-1.89 -0.61,-3.77 -1,-5.65 l -1.17,-5.64 c -0.2,-0.94 -0.38,-1.89 -0.6,-2.82 l -0.68,-2.81 -1.37,-5.61 -1.55,-5.56 a 272.56,272.56 0 0 0 -15.87,-42.08 267.22,267.22 0 0 0 -19.66,-34.4 c -3.27,-4.92 -6.59,-9.3 -9.61,-13.26 -3.02,-3.96 -6,-7.34 -8.54,-10.2 l -1.86,-2.06 -0.45,-0.5 a 1.5,1.5 0 0 1 -0.3,-0.4 l -0.18,-0.29 -0.64,-1.08 -2.19,-3.78 c -1.32,-2.18 -2.34,-3.71 -2.92,-4.59 -0.8,-1.19 -1.6,-2.35 -2.36,-3.45 a 1,1 0 0 1 0.3,-1.27 0.94,0.94 0 0 1 1.3,0.14 c 0.77,1.07 1.59,2.24 2.43,3.46 0.65,1 1.75,2.59 3.14,4.85 l 2.31,3.82 0.64,1 a 0.24,0.24 0 0 0 0.09,0.11 l 0.22,0.24 0.46,0.5 1.92,2.1 a 222.87,222.87 0 0 1 18.55,23.67 269.68,269.68 0 0 1 20,34.53 274,274 0 0 1 16.24,42.32 l 1.6,5.59 1.42,5.64 0.71,2.82 0.62,2.84 1.22,5.67 c 0.39,1.89 0.69,3.79 1,5.68 0.31,1.89 0.72,3.77 1,5.66 l 0.8,5.65 0.39,2.81 0.29,2.81 a 264.72,264.72 0 0 1 1.26,42.32 258,258 0 0 1 -3.87,33.84 C 747,635 746,639 745.29,642.53 c -0.71,3.53 -1.51,6.33 -2.06,8.47 l -1.66,6.3 -1.86,6 -1.8,5.72 c -0.63,1.85 -1.27,3.64 -1.9,5.38 -2.54,6.94 -5.14,13 -7.49,17.84 -4.71,9.79 -8.32,15.14 -8.77,14.89 -0.45,-0.25 2.33,-6.26 6.35,-16.34 2,-5 4.28,-11.11 6.57,-18 0.57,-1.72 1.15,-3.49 1.71,-5.31 l 1.66,-5.6 1.74,-5.82 z"
+             style="fill:url(#linearGradient663)"
+             id="path627"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 716.89,368.69 c -2.35,-1.89 -5.54,-4.37 -9.35,-7.54 L 701.31,356 c -2.24,-1.86 -4.58,-3.92 -7.09,-6.07 a 404.29,404.29 0 0 1 -34.4,-33.24 292.74,292.74 0 0 1 -35.56,-48 c -1.31,-2.31 -2.66,-4.62 -4,-7 l -3.62,-7.22 -0.91,-1.81 c -0.29,-0.61 -0.55,-1.24 -0.82,-1.86 l -1.63,-3.74 -1.63,-3.75 c -0.51,-1.26 -1,-2.55 -1.45,-3.83 l -1.44,-3.84 c -0.49,-1.28 -1,-2.56 -1.36,-3.88 L 605,224 l -2.1,-8 c -0.37,-1.32 -0.66,-2.66 -0.94,-4 l -0.85,-4 a 223.53,223.53 0 0 1 -4.1,-32.31 249.74,249.74 0 0 1 0.42,-31.43 279.77,279.77 0 0 1 3.68,-29.26 c 1.69,-9.27 3.71,-18 5.86,-26.11 A 361.71,361.71 0 0 1 620.25,49 c 4.07,-10.17 7.26,-17 8.51,-19.69 0.86,-1.85 1.72,-3.65 2.56,-5.35 a 1,1 0 0 1 1.25,-0.35 1,1 0 0 1 0.51,1.2 c -0.79,1.65 -1.65,3.47 -2.51,5.34 C 629.22,33 626,40 622,50.24 a 363.43,363.43 0 0 0 -13,39.91 298,298 0 0 0 -9,54.85 250.51,250.51 0 0 0 -0.18,31 222.27,222.27 0 0 0 4.27,31.68 l 0.86,3.94 0.43,2 0.52,1.95 2.11,7.79 2.48,7.67 c 0.38,1.29 0.88,2.53 1.36,3.79 l 1.43,3.75 c 0.49,1.25 0.93,2.51 1.45,3.74 l 1.62,3.66 1.61,3.65 c 0.27,0.6 0.52,1.22 0.82,1.81 l 0.9,1.77 3.58,7 3.91,6.79 a 290.31,290.31 0 0 0 35.21,47 402,402 0 0 0 34.17,32.77 c 2.51,2.13 4.85,4.18 7.09,6 l 6.26,5.13 c 3.82,3.17 7.07,5.68 9.47,7.62 l 26.81,21.21 c 8.08,6.44 15.15,12.25 20.91,17.2 l 7.67,6.72 c 2.2,2 4,3.78 5.55,5.22 3,2.89 4.51,4.56 4.33,4.76 -0.18,0.2 -2.1,-1.14 -5.47,-3.73 L 765,405.83 743.54,389.33 c -8.19,-6.24 -17.22,-13.12 -26.65,-20.64 z"
+             style="fill:url(#linear-gradient-17)"
+             id="path629"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 925.73,401.72 c -0.5,-1.87 -1,-4.07 -1.73,-6.54 -0.73,-2.47 -1.49,-5.25 -2.42,-8.28 l -1.51,-4.73 c -0.52,-1.65 -1.07,-3.36 -1.71,-5.1 l -4,-11.24 -2.17,-6.14 -2.5,-6.4 -2.62,-6.71 c -0.92,-2.28 -1.75,-4.64 -2.8,-7 L 898,325 c -2.29,-5 -4.76,-10.1 -7.25,-15.38 l -0.94,-2 -1,-2 -2.06,-4 -4.19,-8.06 c -0.69,-1.37 -1.45,-2.71 -2.22,-4.05 l -2.34,-4 -4.68,-8.24 -5.08,-8.21 -2.57,-4.15 c -0.43,-0.69 -0.85,-1.4 -1.3,-2.08 l -1.38,-2 c -3.7,-5.45 -7.31,-11.08 -11.36,-16.47 -2,-2.72 -4,-5.49 -6,-8.21 l -6.3,-8.15 c -1.06,-1.35 -2.1,-2.72 -3.19,-4.05 l -3.32,-4 -6.69,-8 -7,-7.79 c -1.17,-1.29 -2.3,-2.62 -3.5,-3.88 l -3.59,-3.8 c -2.4,-2.53 -4.77,-5.09 -7.2,-7.59 l -7.37,-7.42 c -2.43,-2.49 -4.95,-4.89 -7.45,-7.3 -2.5,-2.41 -5,-4.83 -7.5,-7.19 l -15.09,-14 c -10,-9.2 -19.77,-18.32 -29.12,-27.29 -18.7,-17.93 -35.79,-35.19 -50,-51 -14.21,-15.81 -25.56,-30.19 -32.86,-42 a 104.24,104.24 0 0 1 -8,-15.28 54.94,54.94 0 0 1 -3,-9.2 36.36,36.36 0 0 1 -1,-7.28 1,1 0 0 0 -1,-0.84 0.91,0.91 0 0 0 -1,0.85 V 1 a 37.31,37.31 0 0 0 1,7.67 57.38,57.38 0 0 0 3.22,9.94 107.1,107.1 0 0 0 8.33,15.83 230.52,230.52 0 0 0 14,19.82 c 5.57,7.13 12,14.72 19.12,22.68 14.24,15.91 31.27,33.23 49.86,51.19 9.29,9 19,18.12 28.92,27.33 l 14.93,14 7.39,7.17 c 2.47,2.39 4.94,4.79 7.34,7.27 l 7.26,7.38 7.09,7.55 3.54,3.78 c 1.16,1.27 2.29,2.58 3.44,3.86 l 6.83,7.73 6.57,7.89 3.27,3.93 c 1.07,1.33 2.09,2.68 3.14,4 l 6.21,8 c 2,2.7 3.94,5.44 5.9,8.14 4,5.34 7.52,10.92 11.16,16.31 1.85,2.67 3.46,5.48 5.15,8.2 l 5,8.13 4.6,8.16 c 1.49,2.71 3.07,5.33 4.45,8 l 4.11,8 2,3.92 c 0.68,1.3 1.34,2.59 1.93,3.9 a 545.2,545.2 0 0 1 23.28,55.87 l 4.02,11.35 0.9,2.58 0.79,2.5 1.5,4.72 c 0.93,3 1.68,5.8 2.41,8.28 0.73,2.48 1.23,4.7 1.74,6.6 l 0.73,2.83 0.65,2.83 1.29,5.58 c 0.73,3.71 1.57,7.32 2.16,10.9 l 1,5.29 0.8,5.19 c 0.57,3.41 0.93,6.76 1.38,10 1.6,13 2.24,24.61 2.54,34.24 0.52,19.29 -0.2,30.75 0.45,30.8 v 0 c 0.25,0 0.71,-2.93 1.26,-8.34 0.55,-5.41 1,-13.29 1.09,-23.12 a 307.49,307.49 0 0 0 -9.47,-77.16 z"
+             style="fill:url(#linearGradient665)"
+             id="path631"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 577.29,723 c 1.42,-0.52 3,-1.31 4.85,-2.12 l 6.14,-2.78 7.21,-3.68 2,-1 2,-1.14 4.19,-2.4 c 2.91,-1.58 5.82,-3.54 8.93,-5.5 3.11,-1.96 6.22,-4.24 9.51,-6.53 1.66,-1.13 3.26,-2.4 4.9,-3.69 l 5,-3.91 5,-4.28 c 1.68,-1.45 3.42,-2.9 5,-4.51 l 5,-4.78 c 1.69,-1.63 3.29,-3.39 5,-5.11 l 2.51,-2.62 c 0.84,-0.88 1.61,-1.83 2.43,-2.74 l 4.88,-5.61 a 242.24,242.24 0 0 0 18,-25.16 239.39,239.39 0 0 0 14.82,-28.69 234.94,234.94 0 0 0 10.5,-31.1 232.14,232.14 0 0 0 5.68,-32.06 c 0.41,-5.35 0.94,-10.64 1,-15.9 0.23,-5.25 0.11,-10.45 0,-15.57 a 236.67,236.67 0 0 0 -2.93,-29.45 c -0.69,-4.68 -1.68,-9.19 -2.58,-13.59 l -1.55,-6.44 c -0.48,-2.12 -1.14,-4.16 -1.69,-6.19 l -0.85,-3 c -0.29,-1 -0.62,-2 -0.93,-2.93 l -1.83,-5.67 -2,-5.37 -1,-2.59 -1,-2.49 -2,-4.8 c -0.67,-1.54 -1.37,-3 -2,-4.46 -0.63,-1.46 -1.27,-2.85 -1.93,-4.17 l -1.93,-3.83 a 211.15,211.15 0 0 0 -10.73,-18.7 l -3.29,-5 a 1,1 0 0 1 0.15,-1.11 l 0.43,-0.16 h -0.49 l 0.45,-0.16 a 0.93,0.93 0 0 1 1.06,0.28 l 3.36,5 a 212.54,212.54 0 0 1 11.2,19.34 218.69,218.69 0 0 1 15.71,39.84 c 1.24,4.07 2.22,8.36 3.31,12.75 l 1.4,6.74 c 0.25,1.14 0.46,2.29 0.65,3.45 l 0.59,3.51 a 248.2,248.2 0 0 1 3.05,29.66 l 0.18,7.79 v 3.94 l -0.09,4 c 0,5.3 -0.55,10.65 -0.91,16 a 219.8,219.8 0 0 1 -49,118.39 l -4.91,5.71 c -0.82,0.93 -1.6,1.89 -2.44,2.79 l -2.53,2.66 c -1.69,1.75 -3.31,3.53 -5,5.21 l -5,4.93 c -0.85,0.79 -1.65,1.62 -2.51,2.37 l -2.57,2.24 -5,4.37 -5.07,4 c -1.67,1.3 -3.27,2.63 -5,3.78 l -4.88,3.48 c -0.8,0.56 -1.58,1.14 -2.37,1.68 l -2.37,1.57 c -3.17,2 -6.11,4 -9.08,5.66 l -4.27,2.46 -2,1.17 c -0.67,0.37 -1.36,0.71 -2,1.05 l -7.39,3.79 c -2.3,1.09 -4.43,2 -6.32,2.89 -1.89,0.89 -3.55,1.67 -5,2.21 a 205.44,205.44 0 0 1 -33.27,10.63 c -2.58,0.56 -5.07,1.13 -7.5,1.63 l -7.17,1.17 -3.35,0.54 -3.24,0.36 -6.06,0.64 c -1.92,0.24 -3.76,0.29 -5.49,0.38 l -4.87,0.22 c -3,0.18 -5.62,0 -7.73,0 -4.22,-0.13 -6.5,-0.34 -6.5,-0.62 0,-0.28 2.36,-0.57 6.64,-0.92 2.14,-0.18 4.76,-0.3 7.8,-0.7 l 4.87,-0.53 2.66,-0.28 c 0.91,-0.1 1.84,-0.27 2.8,-0.41 3.81,-0.62 8,-1.07 12.49,-2 l 6.94,-1.36 7.31,-1.78 A 231.31,231.31 0 0 0 577.29,723 Z"
+             style="fill:url(#linear-gradient-19)"
+             id="path633"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 351.94,263 c 1,-2.74 2.18,-6 3.6,-9.69 1.42,-3.69 3.21,-7.86 5.47,-12.36 a 162.23,162.23 0 0 1 19.1,-30.7 152.53,152.53 0 0 1 34.89,-32.47 c 1.84,-1.25 3.77,-2.43 5.74,-3.6 l 1.49,-0.86 0.54,-0.31 0.19,-0.1 0.32,-0.17 h 0.09 c 0.12,0 0,0 -0.06,-0.07 h -0.1 l -0.42,-0.09 q -3.41,-0.72 -6.93,-1.23 a 126.12,126.12 0 0 0 -29.7,-0.78 112.84,112.84 0 0 0 -26.45,5.73 102,102 0 0 0 -13.72,6 c -4.56,2.42 -9.26,5.06 -14,7.77 -4.74,2.71 -9.53,5.59 -14.28,8.68 -1.2,0.76 -2.38,1.55 -3.56,2.35 -1.18,0.8 -2.36,1.61 -3.52,2.45 a 76.69,76.69 0 0 0 -6.73,5.32 c -0.5,0.48 -1,1 -1.48,1.46 l -0.35,0.37 -0.39,0.47 c -0.09,0.15 -0.25,0.22 -0.3,0.42 h -0.17 -0.09 l -0.19,0.1 -0.69,0.37 a 3,3 0 0 1 -0.64,0.26 c -0.27,0.07 -0.56,0.33 -0.86,0.12 l -1.51,-0.56 -2.09,-0.74 c -2.8,-1 -5.65,-1.88 -8.52,-2.77 Q 278,205.69 269,203.64 l -0.79,-0.18 -0.85,-0.2 a 190.45,190.45 0 0 0 -29.58,-4.16 132,132 0 0 0 -30.22,2.23 c -5,0.87 -10,2 -15,3.22 -5,1.22 -9.91,2.68 -14.8,4.23 A 239.93,239.93 0 0 0 149.18,220 209.57,209.57 0 0 0 99,252.6 177.19,177.19 0 0 0 79.11,273.25 c -1.53,1.77 -2.89,3.67 -4.3,5.51 -1.41,1.84 -2.71,3.75 -4,5.63 L 66.89,290 c -1.28,1.87 -2.6,3.69 -3.75,5.61 l -7,11.19 -6.34,11.09 c -1.07,1.8 -2,3.64 -3,5.46 l -2.8,5.43 c -0.92,1.79 -1.88,3.53 -2.74,5.3 l -2.54,5.26 c -3.43,6.89 -6.32,13.63 -9.14,20 -2.65,6.39 -5.18,12.39 -7.29,18.05 -2.11,5.66 -4,10.9 -5.76,15.66 -1.76,4.76 -3.11,9.09 -4.27,12.91 l -1.66,5.29 -1.32,4.46 c -0.81,2.68 -1.38,4.79 -1.79,6.25 -1,3.42 -1.84,6.8 -2.62,10 A 1,1 0 0 1 3.72,432.57 0.92,0.92 0 0 1 3,431.48 v 0 c 0.76,-3.15 1.62,-6.58 2.6,-10.08 0.43,-1.6 1,-3.84 1.88,-6.64 l 1.36,-4.63 1.69,-5.44 c 0.59,-2 1.27,-4 2,-6.22 0.73,-2.22 1.48,-4.52 2.33,-6.95 1.73,-4.84 3.57,-10.18 5.8,-15.87 2.23,-5.69 4.64,-11.8 7.34,-18.24 l 4.35,-9.84 c 0.73,-1.69 1.52,-3.38 2.35,-5.08 l 2.48,-5.17 2.49,-5.32 2.77,-5.32 2.82,-5.43 c 0.48,-0.91 0.94,-1.84 1.45,-2.75 l 1.55,-2.73 c 2.09,-3.65 4.15,-7.4 6.37,-11.14 l 7,-11.26 c 0.58,-1 1.22,-1.89 1.86,-2.82 l 1.92,-2.81 3.89,-5.67 2,-2.86 2.11,-2.8 2.13,-2.81 c 0.72,-0.93 1.49,-1.83 2.24,-2.75 A 181,181 0 0 1 97.91,250 a 204.59,204.59 0 0 1 23.81,-18 230.67,230.67 0 0 1 26.75,-14.8 240,240 0 0 1 58.82,-18.93 c 5.09,-0.9 10.2,-1.62 15.34,-2.05 1.28,-0.11 2.57,-0.21 3.86,-0.27 1.29,-0.06 2.58,-0.12 3.87,-0.14 2.58,0 5.14,0.08 7.7,0.13 a 194.48,194.48 0 0 1 30,4.12 l 0.86,0.2 0.81,0.18 q 9.07,2 17.83,4.67 c 2.91,0.89 5.79,1.8 8.64,2.78 l 2.13,0.75 0.62,0.22 c 0.11,0 0.13,0.06 0.18,0 l 0.1,-0.14 0.28,-0.34 0.41,-0.44 c 0.54,-0.61 1.11,-1.11 1.67,-1.66 a 78.53,78.53 0 0 1 7,-5.58 c 1.19,-0.86 2.38,-1.71 3.59,-2.51 1.21,-0.8 2.4,-1.63 3.61,-2.4 4.81,-3.15 9.64,-6 14.39,-8.81 4.75,-2.81 9.43,-5.39 14.09,-7.89 a 104.82,104.82 0 0 1 14.19,-6.25 116.45,116.45 0 0 1 27.36,-6 129.84,129.84 0 0 1 30.39,0.7 q 3.62,0.51 7.13,1.23 c 0.35,0.07 1.77,0.37 2.79,0.62 1.02,0.25 2.17,0.53 3.13,0.83 l 2.93,0.87 1.45,0.44 0.3,0.1 h 0.16 -0.1 l -0.85,0.38 -3.37,1.53 -0.84,0.38 c -0.28,0.13 -0.57,0.26 -0.77,0.37 l -1.33,0.7 -1.33,0.69 -0.66,0.35 -0.32,0.17 -0.18,0.1 -1.43,0.83 c -1,0.54 -1.88,1.13 -2.81,1.7 -0.93,0.57 -1.84,1.16 -2.73,1.76 a 148.58,148.58 0 0 0 -33.92,31.52 159.38,159.38 0 0 0 -18.71,30 c -2.22,4.44 -3.86,8.6 -5.41,12.24 -1.55,3.64 -2.62,6.94 -3.6,9.7 a 232.16,232.16 0 0 0 -8.08,30 198.75,198.75 0 0 0 -3.66,28.22 127.54,127.54 0 0 0 0.92,25.09 l 0.47,2.85 c 0.15,0.94 0.3,1.87 0.54,2.79 0.44,1.83 0.8,3.64 1.32,5.37 0.52,1.73 0.92,3.45 1.46,5.1 0.54,1.65 1,3.27 1.55,4.83 A 274.52,274.52 0 0 0 362,397.06 c 3.09,6.56 4.88,10.07 4.63,10.22 -0.25,0.15 -2.53,-3.27 -6.14,-9.81 a 212.22,212.22 0 0 1 -13.21,-29 c -1.15,-3.19 -2.27,-6.57 -3.3,-10.15 -0.52,-1.79 -1,-3.65 -1.44,-5.52 -0.44,-1.87 -0.73,-3.87 -1.11,-5.87 a 131.29,131.29 0 0 1 -1.09,-25.76 189.56,189.56 0 0 1 3.59,-28.37 227.44,227.44 0 0 1 8.01,-29.8 z"
+             style="fill:url(#linear-gradient-20)"
+             id="path635"
+             inkscape:connector-curvature="0" />
+          <g
+             style="opacity:0.25"
+             id="g639">
+            <path
+               d="m 915.07,657.63 2.85,-6.3 4,-9.2 4.75,-11.72 2.52,-6.71 c 0.86,-2.32 1.8,-4.7 2.62,-7.19 1.7,-5 3.56,-10.18 5.18,-15.68 0.82,-2.75 1.77,-5.52 2.53,-8.38 l 2.36,-8.69 c 0.85,-2.92 1.46,-5.92 2.17,-8.93 l 1,-4.53 c 0.36,-1.51 0.71,-3 1,-4.57 l 1.74,-9.24 0.43,-2.32 0.34,-2.33 0.69,-4.66 c 1,-6.19 1.55,-12.42 2.24,-18.53 0.44,-6.13 1,-12.15 1.12,-18 0.46,-11.7 0.34,-22.7 -0.22,-32.32 a 283.63,283.63 0 0 0 -4.08,-36.28 c -0.21,-1.15 -0.43,-2.28 -0.65,-3.34 a 1,1 0 0 1 0.77,-1 0.92,0.92 0 0 1 1.14,0.63 v 0 c 0.23,1 0.48,2.2 0.7,3.38 a 287,287 0 0 1 4.51,36.94 c 0.13,2.42 0.32,4.92 0.4,7.5 l 0.24,8 c 0,5.44 0.12,11.14 -0.13,17 -0.09,5.88 -0.58,11.93 -1,18.08 -0.64,6.13 -1.12,12.39 -2.08,18.62 l -0.64,4.68 -0.32,2.34 -0.42,2.33 -1.66,9.3 c -0.25,1.55 -0.6,3.08 -0.94,4.6 l -1,4.56 c -0.69,3 -1.28,6.05 -2.1,9 l -2.29,8.75 c -0.36,1.45 -0.79,2.86 -1.21,4.26 l -1.25,4.18 -1.23,4.1 -0.61,2 -0.66,2 -2.57,7.7 a 445.76,445.76 0 0 1 -16.62,41.7 c -11.91,26.19 -23.65,43.64 -24.6,43 -0.95,-0.64 9.51,-19.44 20.98,-44.73 z"
+               style="fill:#ffffff"
+               id="path637"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             style="opacity:0.25"
+             id="g643">
+            <path
+               d="m 779.41,865.32 c 5,-3 16.85,-10 31.16,-20.3 l 5.49,-4 5.63,-4.28 2.9,-2.2 2.88,-2.32 5.87,-4.75 5.84,-5 c 2,-1.69 4,-3.39 5.82,-5.18 1.82,-1.79 3.73,-3.64 5.59,-5.48 1.86,-1.84 3.59,-3.81 5.27,-5.82 a 140,140 0 0 0 9.53,-12.29 147.13,147.13 0 0 0 8,-12.74 169.73,169.73 0 0 0 11.32,-24.49 158.72,158.72 0 0 0 7.92,-29.47 c 0.15,-1 0.3,-1.91 0.41,-2.81 a 1,1 0 0 1 1.07,-0.74 0.92,0.92 0 0 1 0.87,1 v 0 c -0.1,0.9 -0.23,1.88 -0.38,2.88 a 161.08,161.08 0 0 1 -7.79,30.28 171.81,171.81 0 0 1 -11.21,24.91 151.5,151.5 0 0 1 -8,13 143.71,143.71 0 0 1 -9.54,12.57 c -1.68,2.06 -3.51,4 -5.29,6 a 78.84,78.84 0 0 1 -5.63,5.64 c -1.95,1.79 -3.87,3.58 -5.82,5.3 l -5.81,5.12 -5.84,4.85 -2.86,2.37 -2.89,2.24 -5.62,4.39 c -1.85,1.4 -3.7,2.72 -5.48,4 -14.29,10.46 -26.22,17.71 -31.39,20.8 -20.72,12.39 -37.24,18.66 -37.67,17.61 -0.2,-0.47 3.73,-2.72 10.19,-6.37 6.46,-3.65 15.48,-8.77 25.46,-14.72 z"
+               style="fill:#ffffff"
+               id="path641"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             style="opacity:0.25"
+             id="g647">
+            <path
+               d="m 518.09,981.82 6.73,-0.27 9.74,-0.6 c 7.4,-0.51 16.5,-1.28 26.66,-2.52 1.27,-0.15 2.56,-0.27 3.86,-0.46 l 3.94,-0.57 8.15,-1.18 c 2.77,-0.39 5.56,-1 8.4,-1.46 2.84,-0.46 5.73,-1 8.63,-1.6 l 8.75,-1.93 4.43,-1 c 1.47,-0.35 2.93,-0.77 4.41,-1.16 l 8.85,-2.37 c 0.74,-0.2 1.48,-0.38 2.21,-0.61 l 2.18,-0.7 4.36,-1.41 c 2.9,-1 5.82,-1.82 8.68,-2.85 l 8.49,-3.14 4.19,-1.56 4.1,-1.67 8,-3.29 a 270.77,270.77 0 0 0 28.13,-14 118.17,118.17 0 0 0 19.1,-13.55 49.59,49.59 0 0 0 8,-8.69 c 0.3,-0.46 0.61,-0.92 0.89,-1.37 a 10.55,10.55 0 0 0 0.72,-1.36 1.05,1.05 0 0 1 1.22,-0.39 c 0.55,0.15 0.71,0.64 0.56,1.2 a 8.18,8.18 0 0 1 -0.78,1.53 11.59,11.59 0 0 1 -1,1.51 52.49,52.49 0 0 1 -8.44,9.36 124.32,124.32 0 0 1 -19.42,14 279.54,279.54 0 0 1 -28.23,14.4 l -8,3.37 -4.09,1.72 -4.19,1.6 -8.45,3.2 c -2.86,1 -5.79,2 -8.7,2.94 l -4.38,1.46 -2.19,0.73 -2.22,0.63 -8.87,2.47 c -1.48,0.4 -2.94,0.84 -4.42,1.2 l -4.43,1 -8.77,2 c -2.9,0.63 -5.8,1.13 -8.65,1.68 -2.85,0.55 -5.65,1.13 -8.42,1.55 l -8.16,1.34 c -2.67,0.42 -5.28,0.83 -7.83,1.11 -10.2,1.33 -19.35,2.18 -26.82,2.76 l -9.87,0.67 -6.89,0.3 c -28,1.17 -48.35,-1.16 -48.24,-2.29 0.11,-1.13 21.05,-0.55 48.08,-1.73 z"
+               style="fill:#ffffff"
+               id="path645"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             d="m 155.86,160.77 -1.92,-3.17 c -0.67,-1.32 -1.53,-2.79 -2.33,-4.54 A 76.5,76.5 0 0 1 147,139.64 117.38,117.38 0 0 1 144,120 q -0.21,-2.84 -0.31,-5.89 v -2.17 0 l -0.09,0.09 -0.09,0.1 -0.45,0.5 c -1.5,1.68 -3,3.43 -4.56,5.24 -4.08,4.77 -8.43,10.15 -12.83,16 -4.4,5.85 -8.84,12.16 -13,18.82 -2.14,3.3 -4.08,6.77 -6.06,10.21 l -2.78,5.28 c -0.48,0.87 -0.9,1.77 -1.31,2.67 l -1.25,2.7 a 150.27,150.27 0 0 0 -8,21.95 c -2,7.28 -3.66,14.35 -4.93,20.92 -1.27,6.57 -2.16,12.65 -2.85,18 -1.33,10.61 -1.78,18.1 -1.91,20.49 l -0.16,3.35 a 1,1 0 0 1 -1,0.83 0.93,0.93 0 0 1 -1,-0.85 v 0 c 0,-1.06 0.07,-2.21 0.12,-3.39 0.12,-2.63 0.5,-10.29 1.76,-21 0.64,-5.37 1.53,-11.49 2.71,-18.13 1.18,-6.64 2.79,-13.77 4.77,-21.13 a 149.36,149.36 0 0 1 7.78,-22.29 l 1.24,-2.75 0.62,-1.38 0.69,-1.35 2.76,-5.38 c 2,-3.5 3.9,-7 6,-10.38 4.15,-6.77 8.54,-13.19 12.93,-19.11 4.39,-5.92 8.7,-11.4 12.77,-16.27 1.54,-1.83 3.05,-3.6 4.55,-5.3 l 0.68,-0.77 1.06,-1.17 2.11,-2.32 2.07,-2.23 1,-1.11 0.25,-0.26 0.12,-0.12 v 1 c -0.06,2.15 -0.18,4.38 -0.16,6.33 V 114 q 0.1,2.94 0.33,5.7 a 113.79,113.79 0 0 0 3,18.89 72.43,72.43 0 0 0 4.42,12.74 c 0.34,0.85 0.79,1.57 1.15,2.28 l 1.05,2 1.9,3.13 c 3.67,5.91 7.49,11.2 11,15.9 3.51,4.7 6.66,8.8 9.31,12.2 5.3,6.8 8.45,10.86 8,11.24 -0.45,0.38 -4.4,-3.19 -10.36,-9.65 -3,-3.23 -6.43,-7.2 -10.1,-11.82 a 169.38,169.38 0 0 1 -11.09,-15.84 z"
+             style="fill:url(#linear-gradient-21)"
+             id="path649"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 205.1,584.1 c -0.35,-1.58 -0.67,-3.73 -1.13,-6.35 -0.25,-1.31 -0.43,-2.74 -0.61,-4.3 l -0.6,-5 a 142.7,142.7 0 0 1 0.09,-25.65 151.74,151.74 0 0 1 6.15,-31.3 99.91,99.91 0 0 1 6.59,-16 81.94,81.94 0 0 1 22.32,-26.87 l 3.43,-2.59 c 1.14,-0.85 2.35,-1.59 3.51,-2.38 l 1.75,-1.16 c 0.59,-0.37 1.2,-0.71 1.79,-1.07 l 3.56,-2.09 a 81.56,81.56 0 0 1 28.77,-8.82 122.24,122.24 0 0 1 22.47,-0.45 c 5.84,0.42 9.8,1.07 11.38,1.32 1.08,0.18 2.13,0.37 3.13,0.58 a 1,1 0 0 1 -0.39,1.92 c -0.94,-0.18 -2,-0.35 -3.06,-0.52 -1.69,-0.25 -5.7,-0.85 -11.5,-1.19 a 119.36,119.36 0 0 0 -22.12,0.74 78.89,78.89 0 0 0 -27.63,8.93 c -2.26,1.39 -4.63,2.69 -6.85,4.28 -1.11,0.78 -2.29,1.49 -3.37,2.35 l -3.27,2.52 a 78.82,78.82 0 0 0 -21.08,26 97.19,97.19 0 0 0 -6.17,15.5 148.72,148.72 0 0 0 -5.71,30.5 139.8,139.8 0 0 0 0.09,24.89 l 0.61,4.86 c 0.19,1.52 0.36,2.93 0.61,4.21 0.47,2.57 0.79,4.7 1.14,6.28 1.31,6.35 2.86,12.2 4.4,17.41 1.54,5.21 3.11,9.75 4.52,13.49 2.73,7.52 4.67,11.87 4.17,12.15 -0.5,0.28 -3.37,-3.86 -6.85,-11.32 a 132.29,132.29 0 0 1 -5.42,-13.49 c -0.86,-2.62 -1.78,-5.38 -2.53,-8.31 -0.75,-2.93 -1.49,-5.91 -2.19,-9.07 z"
+             style="fill:url(#linear-gradient-22)"
+             id="path651"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
